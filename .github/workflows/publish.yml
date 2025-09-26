@@ -29,8 +29,11 @@ jobs:
             libfreetype6-dev \
             libpng-dev \
             libjpeg-dev \
+<<<<<<< HEAD
             libtiff5-dev \
             libwebp-dev \
+=======
+>>>>>>> 4645d19798251a609b9edd2bfd5ebe5bc823567b
             libharfbuzz-dev \
             libfribidi-dev \
             libxt-dev \
