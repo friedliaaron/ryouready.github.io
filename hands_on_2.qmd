@@ -5,12 +5,6 @@ editor: visual
 
 # Hands On – Coding Basics (Einheiten 2 und 3)
 
-3te: projekte, einleksen und matrizen und listen.
-
-matitzen vs. listen vs. dfs.
-
-4te einheit: mergen
-
 Bei Bedarf findest du hier nochmals die Slides zu Einheit 3:\
 <iframe src="EH_3.html" width="100%" height="500px"></iframe>
 
@@ -130,10 +124,12 @@ Verschaffe dir eine Übersicht über die Datensätze, verwende dabei die verschi
 
 # Datenstrukturen: Vektoren, Listen, Matrizen und Data Frames
 
+XXXX @Sandra gibt es hier ein gutes Kapitel das all das schön zusammenfasst?
+
 Bevor wir mit den Übungen starten, ein Überblick über die Unterschiede:
 
 | Struktur | Eigenschaften | Beispiel-Inhalt |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **Vektor** | \- Enthält Elemente **eines** Datentyps<br>- Grundbaustein in R | `c(1, 2, 3)` oder `c("Anna", "Ben")` |
 | **Liste** | \- Kann verschiedene Datentypen enthalten<br>- Elemente können unterschiedlich lang sein | Zahlenvektor, Textvektor, logischer Vektor in einer Liste |
 | **Matrix** | \- Enthält nur **einen** Datentyp<br>- Hat feste Dimensionen (Zeilen, Spalten) | 3x3-Matrix mit Zahlen 1–9 |
@@ -196,6 +192,27 @@ Ein **Data Frame** ist eine tabellarische Struktur mit Spalten, die verschiedene
 -   Filtere alle Zeilen, in denen studiert == TRUE.
 
 -   Füge eine neue Spalte hinzu, die alter + 10 berechnet.
+
+# Funktionen
+
+Wir haben in diesen Übungen bereits einige Funktionen verwendet (z.b `sum()` oder `sort()` ) Funktionen bestehen aus einem Namen und Argumenten. In diesem Beispiel wird die Funktion "`sort()` " aufgerufen, die Argumente die dafür benötigt werden sind `first_vector` & `decreasing = TRUE` . Die meisten Funktionen haben "defaults" also argumente die eine voreinstellung haben. Wenn man diese nicht verändern möchte müssen diese auch nicht definiert werden. `sort()` hat als default `sdecreasing = FALSE` , deswegen müssen wir um die höchsten Werte des Vektors zu bestimmen diesen Default umstellen.
+
+Die Defaults der Funktionen lassen sich via Hilfefunktion nachschauen. Diese Kann entweder auf dem "Help" Tab geöffnet werden oder direkt via Konsole `?Funktionsname`
+
+```{r}
+first_vector <- c(22342,4,5,6,7,23234, 342, 342)
+
+highest_values_1 <- sort(first_vector)[1:2]
+
+highest_values <- sort(first_vector, decreasing =TRUE)[1:2]
+```
+
+Suche mit der Hilfefunktion nach dem default von `?sum()` . Korrigiere den folgenden code so dass die Summe des Vektors berechet wird.
+
+```{r}
+vector_with_nas <- c(1 ,2,3,5,6,NA, 14, 21, NA, 12)
+sum(vector_with_nas)
+```
 
 # Daten mergen
 
