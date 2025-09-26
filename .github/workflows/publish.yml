@@ -1,3 +1,9 @@
+name: Quarto Publish
+
+on:
+  push:
+    branches: main
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
@@ -15,7 +21,7 @@ jobs:
       - name: Install system dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y libcurl4-openssl-dev
+          sudo apt-get install -y libcurl4-openssl-dev libssl-dev libxml2-dev
 
       - name: Restore R dependencies
         uses: r-lib/actions/setup-renv@v2
