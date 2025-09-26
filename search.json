@@ -1,10 +1,1088 @@
 [
   {
+    "objectID": "EH_3-PSY-017376.html#r-u-ready-reprodzierbare-datenaufbereitung-und--analyse-mit-r",
+    "href": "EH_3-PSY-017376.html#r-u-ready-reprodzierbare-datenaufbereitung-und--analyse-mit-r",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "R u Ready? Reprodzierbare Datenaufbereitung und -analyse mit R",
+    "text": "R u Ready? Reprodzierbare Datenaufbereitung und -analyse mit R\nHS 2025 LV-Leitung: Dr. Sandra Grinschgl / MSc. Aaron Friedli Tutor: BSc. Lars Schilling3. Einheit, 17.09.2025"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#fragen-zum-datenanalyseplan",
+    "href": "EH_3-PSY-017376.html#fragen-zum-datenanalyseplan",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Fragen zum Datenanalyseplan:",
+    "text": "Fragen zum Datenanalyseplan:"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#fragen-zu-den-hands-on-übungen-der-ersten-beiden-wochen",
+    "href": "EH_3-PSY-017376.html#fragen-zu-den-hands-on-übungen-der-ersten-beiden-wochen",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Fragen zu den Hands On Übungen der ersten beiden Wochen?",
+    "text": "Fragen zu den Hands On Übungen der ersten beiden Wochen?\n\nHier eine sprachlich glattere Version deiner Fragen:\nFragen zu den Hands-On-Übungen der ersten beiden Wochen?\nWas hat euch Schwierigkeiten bereitet?\nGibt es noch Unklarheiten?\nWelche Übungen sollen wir gemeinsam live durchgehen?"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#heute",
+    "href": "EH_3-PSY-017376.html#heute",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Heute:",
+    "text": "Heute:"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#peer-pairings",
+    "href": "EH_3-PSY-017376.html#peer-pairings",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Peer-Pairings",
+    "text": "Peer-Pairings\nXXX"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#forschungsdatenmanagement",
+    "href": "EH_3-PSY-017376.html#forschungsdatenmanagement",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Forschungsdatenmanagement:",
+    "text": "Forschungsdatenmanagement:\nPlanung, Organisation, Speicherung, Dokumentation und Archivierung von Daten während des gesamten Forschungsprozesses.\n\n\nWarum Datenmanagement:\n\nDatenflut in der Forschung Risiken ohne gutes Management\n\nZiele von Datenmanagement:\n\nQualitätssicherung\nSicherheit/Datenschutz & Ethik\nReproduzierbarkeit\nNachhaltigkeit und Transparenz"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#forschungsdatenmanagement-2",
+    "href": "EH_3-PSY-017376.html#forschungsdatenmanagement-2",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Forschungsdatenmanagement (2)",
+    "text": "Forschungsdatenmanagement (2)\n\n\nStandards & Vorgaben:\n\nFair Prinzipien\nData Management Plan (SNF)\nFörderorganisatornen & Journals\n\nPraktische Umsetzung:\n\nOrdnerstrukturen & Versionierung\nDokumentation (README, Codebooks)\nOffene Dateiformate"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#ordnerstrukturen-psych-ds",
+    "href": "EH_3-PSY-017376.html#ordnerstrukturen-psych-ds",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Ordnerstrukturen: Psych-DS",
+    "text": "Ordnerstrukturen: Psych-DS\n\nStandard für die Organisation von Daten, Skripten und weiteren Studiendokumenten\n\n\n\nEin Standard von vielen Möglichen\nhttps://psychds-docs.readthedocs.io/en/latest/guides/1_getting_started/"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#psych-ds-für-unser-zwecke",
+    "href": "EH_3-PSY-017376.html#psych-ds-für-unser-zwecke",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Psych-DS für unser Zwecke:",
+    "text": "Psych-DS für unser Zwecke:\n\nLeicht Abgeändertes Format für die Abgaben.\n\nMacht es leichter für uns die Abgaben zu kontrollieren\n\nHilft euch eine übersichtliche Ordnerstruktur zu behalten\n\nXXXX"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#wiederholung-bennenung-von-variablen-ect.-in-r",
+    "href": "EH_3-PSY-017376.html#wiederholung-bennenung-von-variablen-ect.-in-r",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Wiederholung: Bennenung von Variablen ect. in R",
+    "text": "Wiederholung: Bennenung von Variablen ect. in R\n\nNamen können aus Buchstaben, Zahlen und Zeichen (_ oder .) bestehen\nEr muss mit Buchstaben begonnen werden und darf keine Leerzeichen beinhalten\nSonderzeichen und Großbuchstaben sollten vermieden werden Keine Namen verwenden, die schon an Funktionen vergeben sind (z.B. mean())\nEmpfehlung für einen leserlichen Code: snake_case\nName soll Variable inhaltlich bestmöglich beschreiben\nReproduzierbarkeit; „clarity instead of brevity“\nBenennung am besten in Englisch um internationalen Standards zu folgen\nKommentierung von R-Code mit #\n\nText nach # wird ignoriert (für 1 Zeile)\nNeue Zeilen müssen wieder mit # beginnen"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#codebook",
+    "href": "EH_3-PSY-017376.html#codebook",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Codebook",
+    "text": "Codebook\n\nNaiver Personen sollen Datensatz nachvollziehen können (Reproduzierbarkeit & Zusatzanalysen)\nBeinhaltet eine Liste und Beschreibung aller Variablen\n\nWie wurde die Variable erhoben (z.B. aus welchem Fragebogen)?\nWie wurde die Variable berechnet (z.B. Summenscore, Mittelwert)?\nWelche Werte kann die Variable annehmen (Minimum und Maximum)?"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#wichtige-grunsätze-für-das-codebook",
+    "href": "EH_3-PSY-017376.html#wichtige-grunsätze-für-das-codebook",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Wichtige Grunsätze für das Codebook",
+    "text": "Wichtige Grunsätze für das Codebook\n\nAm besten für Rohdaten als auch weiter-verarbeitete Daten\n\n\n\nVariablennamen in Codebook sollen identisch zu Variablennamen in Datensatz sein\nVariable muss ausführlich genug beschrieben sein, sodass andere Personen es nachvollziehen können"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#codebook-vorlage",
+    "href": "EH_3-PSY-017376.html#codebook-vorlage",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Codebook: Vorlage",
+    "text": "Codebook: Vorlage\n\nKann in verschiedenen Formaten erstellt werden (Word, Excel, ect.)\nExcel-Vorlage für das Seminar (siehe ILIAS - Abschlussprojekt - Codebook)\nBeispiel: “Example_Codebook” - Ordner\nFür weitere Anleitungen siehe “Guideline_Codebook”.\n\nSiehe auch: Pennington (2023)"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#reproduzierbare-auwertung-grundsätze",
+    "href": "EH_3-PSY-017376.html#reproduzierbare-auwertung-grundsätze",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Reproduzierbare Auwertung: Grundsätze",
+    "text": "Reproduzierbare Auwertung: Grundsätze\n\nDigitale Rohdaten\nSkript soll den gesamten Weg von den Rohdaten bis hin zu den Ergebnissen dokumentieren\nWenn man euren Code auf den Rohdaten laufen lässt, sollte man (fehlerfrei) zu den Ergebnissen kommen\nSkript ist kommentiert und sinnvoll gegliedert"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#rohdaten-für-grinschgl-et-al.-2020",
+    "href": "EH_3-PSY-017376.html#rohdaten-für-grinschgl-et-al.-2020",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Rohdaten für Grinschgl et al. 2020",
+    "text": "Rohdaten für Grinschgl et al. 2020\n\nBereits vorhanden in euren Ordnern (r_you_ready)\nWir mergen diese heute oder in EH4 zu einem vollständigen Datensatz –&gt; dat_full"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#codebook-1",
+    "href": "EH_3-PSY-017376.html#codebook-1",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Codebook",
+    "text": "Codebook\n\nNotwendig für „gemergten“ Datensatz „dat_full“\nVorlage ist auf Englisch, kann aber auch auf Deutsch ausgefüllt werden (selbes gilt für Datenanalyseplan)\nBasierend auf Horstmann et al. (2020)\nAbgabe bis EH6 über ILIAS\nDanach Peer Feedback"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#heute-haben-wir",
+    "href": "EH_3-PSY-017376.html#heute-haben-wir",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Heute haben wir…",
+    "text": "Heute haben wir…\n… Uns mit den Grundlagen von Forschungsdatenmanagement beschäftigt\n… PsychDS als einen Standard kennengelernt\n…Style-Empfehlungen für R Code besprochen\n…die Gründe für und den Aufbau von einem Codebook besprochen\n…Datensätze in R importiert\n…diese gemerged und exportiert"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#hausübungen",
+    "href": "EH_3-PSY-017376.html#hausübungen",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Hausübungen",
+    "text": "Hausübungen\n\nCodebook erstellen bis Mi 22.10.2025"
+  },
+  {
+    "objectID": "EH_3-PSY-017376.html#literatur",
+    "href": "EH_3-PSY-017376.html#literatur",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Literatur:",
+    "text": "Literatur:"
+  },
+  {
+    "objectID": "requirements.html",
+    "href": "requirements.html",
+    "title": "requirements",
+    "section": "",
+    "text": "# requirements.R\n\n# Nutze das benutzerdefinierte Library-Verzeichnis, falls gesetzt\nif (!is.na(Sys.getenv(\"R_LIBS_USER\", unset = NA))) {\n  .libPaths(Sys.getenv(\"R_LIBS_USER\"))\n}\n\ninstall_if_missing &lt;- function(pkg) {\n  if (!pkg %in% rownames(installed.packages())) {\n    install.packages(pkg, repos = \"https://cloud.r-project.org\")\n  }\n}\n\n# Liste der benötigten Pakete – hier kannst du jederzeit erweitern\npkgs &lt;- c(\n  \"tidyverse\",\n  \"knitr\",\n  \"rmarkdown\"\n)\n\nsapply(pkgs, install_if_missing)\n\n$tidyverse\nNULL\n\n$knitr\nNULL\n\n$rmarkdown\nNULL"
+  },
+  {
+    "objectID": "leistungsnachweis.html",
+    "href": "leistungsnachweis.html",
+    "title": "Leistungsnachweis",
+    "section": "",
+    "text": "Caution\n\n\n\nVorsicht: Diese Seite ist noch in Bearbeitung. Hier findest du alle Informationen zum Leistungsnachweis."
+  },
+  {
+    "objectID": "EH_3.html#r-u-ready-reprodzierbare-datenaufbereitung-und--analyse-mit-r",
+    "href": "EH_3.html#r-u-ready-reprodzierbare-datenaufbereitung-und--analyse-mit-r",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "R u Ready? Reprodzierbare Datenaufbereitung und -analyse mit R",
+    "text": "R u Ready? Reprodzierbare Datenaufbereitung und -analyse mit R\nHS 2025 LV-Leitung: Dr. Sandra Grinschgl / MSc. Aaron Friedli Tutor: BSc. Lars Schilling3. Einheit, 17.09.2025"
+  },
+  {
+    "objectID": "EH_3.html#fragen-zum-datenanalyseplan",
+    "href": "EH_3.html#fragen-zum-datenanalyseplan",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Fragen zum Datenanalyseplan:",
+    "text": "Fragen zum Datenanalyseplan:"
+  },
+  {
+    "objectID": "EH_3.html#fragen-zu-den-hands-on-übungen-der-ersten-beiden-wochen",
+    "href": "EH_3.html#fragen-zu-den-hands-on-übungen-der-ersten-beiden-wochen",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Fragen zu den Hands On Übungen der ersten beiden Wochen?",
+    "text": "Fragen zu den Hands On Übungen der ersten beiden Wochen?\n\nHier eine sprachlich glattere Version deiner Fragen:\nFragen zu den Hands-On-Übungen der ersten beiden Wochen?\nWas hat euch Schwierigkeiten bereitet?\nGibt es noch Unklarheiten?\nWelche Übungen sollen wir gemeinsam live durchgehen?"
+  },
+  {
+    "objectID": "EH_3.html#heute",
+    "href": "EH_3.html#heute",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Heute:",
+    "text": "Heute:"
+  },
+  {
+    "objectID": "EH_3.html#peer-pairings",
+    "href": "EH_3.html#peer-pairings",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Peer-Pairings",
+    "text": "Peer-Pairings\nXXX"
+  },
+  {
+    "objectID": "EH_3.html#forschungsdatenmanagement",
+    "href": "EH_3.html#forschungsdatenmanagement",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Forschungsdatenmanagement:",
+    "text": "Forschungsdatenmanagement:\nPlanung, Organisation, Speicherung, Dokumentation und Archivierung von Daten während des gesamten Forschungsprozesses.\n\n\nWarum Datenmanagement:\n\nDatenflut in der Forschung Risiken ohne gutes Management\n\nZiele von Datenmanagement:\n\nQualitätssicherung\nSicherheit/Datenschutz & Ethik\nReproduzierbarkeit\nNachhaltigkeit und Transparenz"
+  },
+  {
+    "objectID": "EH_3.html#forschungsdatenmanagement-2",
+    "href": "EH_3.html#forschungsdatenmanagement-2",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Forschungsdatenmanagement (2)",
+    "text": "Forschungsdatenmanagement (2)\n\n\nStandards & Vorgaben:\n\nFair Prinzipien\nData Management Plan (SNF)\nFörderorganisatornen & Journals\n\nPraktische Umsetzung:\n\nOrdnerstrukturen & Versionierung\nDokumentation (README, Codebooks)\nOffene Dateiformate"
+  },
+  {
+    "objectID": "EH_3.html#ordnerstrukturen-psych-ds",
+    "href": "EH_3.html#ordnerstrukturen-psych-ds",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Ordnerstrukturen: Psych-DS",
+    "text": "Ordnerstrukturen: Psych-DS\n\nStandard für die Organisation von Daten, Skripten und weiteren Studiendokumenten\n\n\n\nEin Standard von vielen Möglichen\nhttps://psychds-docs.readthedocs.io/en/latest/guides/1_getting_started/"
+  },
+  {
+    "objectID": "EH_3.html#psych-ds-für-unser-zwecke",
+    "href": "EH_3.html#psych-ds-für-unser-zwecke",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Psych-DS für unser Zwecke:",
+    "text": "Psych-DS für unser Zwecke:\n\nLeicht Abgeändertes Format für die Abgaben.\n\nMacht es leichter für uns die Abgaben zu kontrollieren\n\nHilft euch eine übersichtliche Ordnerstruktur zu behalten"
+  },
+  {
+    "objectID": "EH_3.html#psych-ds-wichtigste-grundsätze",
+    "href": "EH_3.html#psych-ds-wichtigste-grundsätze",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Psych-DS: Wichtigste Grundsätze",
+    "text": "Psych-DS: Wichtigste Grundsätze\n\nDatenfiles nur in “data”.\n\nDie Rohdatenfiles werden nicht bearbeitet!\nDer aufbereitete Datensatz -&gt; data/processed\n\nCodebook in Ordner “data”\nDatenanalyseplan in “preregistration”\nSkripte in “code”\n\nAufbereitungsschritte im Skript “proocessing”\nAnalyse (mit dem processed datensatz) im Skript “analysis”\n\nKeine redundanten Files!"
+  },
+  {
+    "objectID": "EH_3.html#wiederholung-bennenung-von-variablen-ect.-in-r",
+    "href": "EH_3.html#wiederholung-bennenung-von-variablen-ect.-in-r",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Wiederholung: Bennenung von Variablen ect. in R",
+    "text": "Wiederholung: Bennenung von Variablen ect. in R\n\nNamen können aus Buchstaben, Zahlen und Zeichen (_ oder .) bestehen\nEr muss mit Buchstaben begonnen werden und darf keine Leerzeichen beinhalten\nSonderzeichen und Großbuchstaben sollten vermieden werden Keine Namen verwenden, die schon an Funktionen vergeben sind (z.B. mean())\nEmpfehlung für einen leserlichen Code: snake_case\nName soll Variable inhaltlich bestmöglich beschreiben\nReproduzierbarkeit; „clarity instead of brevity“\nBenennung am besten in Englisch um internationalen Standards zu folgen\nKommentierung von R-Code mit #\n\nText nach # wird ignoriert (für 1 Zeile)\nNeue Zeilen müssen wieder mit # beginnen"
+  },
+  {
+    "objectID": "EH_3.html#codebook",
+    "href": "EH_3.html#codebook",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Codebook",
+    "text": "Codebook\n\nNaiver Personen sollen Datensatz nachvollziehen können (Reproduzierbarkeit & Zusatzanalysen)\nBeinhaltet eine Liste und Beschreibung aller Variablen\n\nWie wurde die Variable erhoben (z.B. aus welchem Fragebogen)?\nWie wurde die Variable berechnet (z.B. Summenscore, Mittelwert)?\nWelche Werte kann die Variable annehmen (Minimum und Maximum)?"
+  },
+  {
+    "objectID": "EH_3.html#wichtige-grunsätze-für-das-codebook",
+    "href": "EH_3.html#wichtige-grunsätze-für-das-codebook",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Wichtige Grunsätze für das Codebook",
+    "text": "Wichtige Grunsätze für das Codebook\n\nAm besten für Rohdaten als auch weiter-verarbeitete Daten\n\n\n\nVariablennamen in Codebook sollen identisch zu Variablennamen in Datensatz sein\nVariable muss ausführlich genug beschrieben sein, sodass andere Personen es nachvollziehen können"
+  },
+  {
+    "objectID": "EH_3.html#codebook-vorlage",
+    "href": "EH_3.html#codebook-vorlage",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Codebook: Vorlage",
+    "text": "Codebook: Vorlage\n\nKann in verschiedenen Formaten erstellt werden (Word, Excel, ect.)\nExcel-Vorlage für das Seminar (siehe ILIAS - Abschlussprojekt - Codebook)\nBeispiel: “Example_Codebook” - Ordner\nFür weitere Anleitungen siehe “Guideline_Codebook”.\n\nSiehe auch: Pennington (2023)"
+  },
+  {
+    "objectID": "EH_3.html#reproduzierbare-auwertung-grundsätze",
+    "href": "EH_3.html#reproduzierbare-auwertung-grundsätze",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Reproduzierbare Auwertung: Grundsätze",
+    "text": "Reproduzierbare Auwertung: Grundsätze\n\nDigitale Rohdaten\nSkript soll den gesamten Weg von den Rohdaten bis hin zu den Ergebnissen dokumentieren\nWenn man euren Code auf den Rohdaten laufen lässt, sollte man (fehlerfrei) zu den Ergebnissen kommen\nSkript ist kommentiert und sinnvoll gegliedert"
+  },
+  {
+    "objectID": "EH_3.html#rohdaten-für-grinschgl-et-al.-2020",
+    "href": "EH_3.html#rohdaten-für-grinschgl-et-al.-2020",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Rohdaten für Grinschgl et al. 2020",
+    "text": "Rohdaten für Grinschgl et al. 2020\n\nBereits vorhanden in euren Ordnern (r_you_ready)\nWir mergen diese heute oder in EH4 zu einem vollständigen Datensatz –&gt; dat_full"
+  },
+  {
+    "objectID": "EH_3.html#codebook-1",
+    "href": "EH_3.html#codebook-1",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Codebook",
+    "text": "Codebook\n\nNotwendig für „gemergten“ Datensatz „dat_full“\nVorlage ist auf Englisch, kann aber auch auf Deutsch ausgefüllt werden (selbes gilt für Datenanalyseplan)\nBasierend auf Horstmann et al. (2020)\nAbgabe bis EH6 über ILIAS\nDanach Peer Feedback"
+  },
+  {
+    "objectID": "EH_3.html#hands-on",
+    "href": "EH_3.html#hands-on",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Hands on!",
+    "text": "Hands on!\n\nProjekte\nDaten einlesen\nDaten speichern"
+  },
+  {
+    "objectID": "EH_3.html#heute-haben-wir",
+    "href": "EH_3.html#heute-haben-wir",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Heute haben wir…",
+    "text": "Heute haben wir…\n… Uns mit den Grundlagen von Forschungsdatenmanagement beschäftigt\n… PsychDS als einen Standard kennengelernt\n…Style-Empfehlungen für R Code besprochen\n…die Gründe für und den Aufbau von einem Codebook besprochen\n…Datensätze in R importiert\n…diese gemerged und exportiert"
+  },
+  {
+    "objectID": "EH_3.html#hausübungen",
+    "href": "EH_3.html#hausübungen",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Hausübungen",
+    "text": "Hausübungen\n\nCodebook erstellen bis Mi 22.10.2025"
+  },
+  {
+    "objectID": "EH_3.html#literatur",
+    "href": "EH_3.html#literatur",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 3",
+    "section": "Literatur:",
+    "text": "Literatur:"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Diese Website wurde im Rahmen des Seminars “R u Ready” an der Universität Bern erstellt.\nSollte deine Frage nicht beantwortet worden sein, dann wende dich gerne direkt an die Autor:innen:\n\n\n\nlars.schilling@unibe.ch\n\n\naaron.friedli@unibe.ch\n\n\nsandra.grinschgl@unibe.ch\n\n\n\n\nThis work is licensed under CC BY-SA 4.0"
+  },
+  {
+    "objectID": "hands_on_1.html",
+    "href": "hands_on_1.html",
+    "title": "Hands On 1",
+    "section": "",
+    "text": "Bei Bedarf finden sich hier nochmal die Slides zur EH1: \nUnd EH2\n\n\n\n\nInstalliere R und RStudio:\n\nInstallation von R – neueste Version 4.5.1: https://stat.ethz.ch/CRAN/\nInstallation von RStudio (Version 2025.09.0): https://posit.co/download/rstudio-desktop/\n\nDu weisst nicht was mit R auf sich hat? Hier ist eine Kurzerklärung: https://methodenlehre.github.io/einfuehrung-in-R/\n\n\n\n\nRStudio öffnen & Einstellungen vornehmen: Unter «tools» –«global options» die unter 1.1. beschriebenen Einstellungen vornehmen:\nhttps://methodenlehre.github.io/einfuehrung-in-R/chapters/01-workflow.html\n\n\n\nNeues Skript öffnen & orientieren\n\n\n\n\nIm folgenden machen wir uns vertraut mit der Oberfläche von RStudio:\n\n\n\n\n\n\n\nSkript für Code-Eingabe sowie Kommentare\nKonsole für die Ausführung von Code -&gt; Teste einfache mathematische Operation in dieser; reproduziere diese mittels Skript\nRechts oben: Environment & History\nRechts unten: Files, Plots, Packages und Help Viewer\n\n\n\n\nTidyverse ist ein Meta-Paket, das mehrere Pakete umfasst\n\nPakete installieren (nur 1x notwendig) -&gt; führe diesen Code in der Konsole aus\n\ninstall.packages(\"tidyverse\")\n\nPaket laden (innerhalb des Skriptes, bei jedem Neustart von R notwendig)\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.1     ✔ stringr   1.5.2\n✔ ggplot2   4.0.0     ✔ tibble    3.3.0\n✔ lubridate 1.9.4     ✔ tidyr     1.3.1\n✔ purrr     1.1.0     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n\nTipp: Pakete regelmässig updaten mit z.B. update.packages()\n\n\n\n\na. Nutze R als Taschenrechner\n\n123+456\n144*112\n10/3\nQuadriere 420\nZiehe die Quadratwurzel aus 146 mit der Funktion sqrt()\nBerechne den Rest der Division 10/3 mit dem Modulo Operator: %%\n\n\n\n\n\n\n\nZeichen\nBedeutung\n\n\n\n\n+\nAddition\n\n\n-\nSubstraktion\n\n\n*\nMultiplikation\n\n\n/\nDivision\n\n\nsqrt(x)\nQuadratwurzel\n\n\nabs(x)\nBetrag (absoluter Wert)\n\n\nx %% y\nModulo (x mod y) 5 %% 2 = 1\n\n\n^\nPotenz\n\n\n\n\n\n\n\n\nWeise den Wert 5 der Variable x zu mit dem Operator &lt;-\nWeise eine beliebige Zahl der Variable y zu und dividiere dann x durch y. Speichere dieses Ergebnis in der Variable z.\nSchaue dir das Ergebnis in deinem Environment an. Lass dir das Ergebnis auch in der Konsole ausgeben. Das Environment findest du oben rechts, die Konsole ist unter deinem Skript.\nErstelle zwei Variablen: Eine mit deinem Vornamen und eine mit deinem Nachnamen. Solche “character” Variablen musst du in Anführungszeichen setzen \"\"\nKombiniere deinen Vor- und Nachnamen zu deinem vollen Namen mittels paste . Speichere diese Variable als voller_name.\n\n\n\n\n\nDefiniere einen Vektor «first_vector» mit den Zahlen 100, 80, 54, 73. Einen Vektor definiert man so: first_vector &lt;- c(...)\nWende den Befehl boxplot() auf deinen Vektor an\nBerechne die Summe sum()und den Mittelwert mean() von deinem Vektor\nMultipliziere deinen Vektor mit *2 und schaue dir das Ergebnis an.\n\nDie wichtigsten Operatoren und Funktionen in R: https://methodenlehre.github.io/einfuehrung-in-R/chapters/02-R-language.html\n\n\n\n\n\nFunktion\nBedeutung\n\n\n\n\nmean(x, na.rm =FALSE)\nMittelwert\n\n\nsd(x)\nStandardabweichung\n\n\nvar(x)\nVarianz\n\n\nmedian(x)\nMedian\n\n\nsum(x)\nSumme\n\n\nmin(x)\nMinimalwert\n\n\nmax(x)\nMaximalwert\n\n\nrange(x)\nMinimal - und Maximalwert\n\n\n\n\n\n\n\n\nTeste ob die Zahl 5 größer als 2 ist –&gt; TRUE or FALSE?\nTeste ob 6 ungleich 8 ist –&gt; TRUE or FALSE?\nSubtrahiere 80 von 50 und speichere das Ergebnis in einer Variable namens «diff_score».\nBerechne mit abs() den absoluten Wert von «diff_score» lasse dir diesen mit print(diff_score) in der Konsole ausgeben.\n\n\n\n\n\n\nZeichen\nBedeutung\n\n\n\n\n==\ngleich\n\n\n!=\nungleich\n\n\n&gt;\ngrösser\n\n\n&gt;=\ngrösser gleich\n\n\n&lt;\nkleiner\n\n\n&lt;=\nkleiner gleich\n\n\n|\nLogisches Oder\n\n\n&\nLogisches Und\n\n\n\n\n\n\n\n\n\nInformative Kommentare im Code sind elementar für die Nachvollziehbarkeit.\n\nSchreibe einen Kommentar indem du ein # verwendest.\nCode der nach einem # steht wird nicht ausgeführt. Setze ein # vor eine Codezeile und führe sie aus und beobachte was passiert.\n\n\n\n\nEs gibt verschiedene Konventionen, wie man Variablen benennen kann.\nEinige wichtige Grundsätze dafür sind:\n\nNamen können aus Buchstaben, Zahlen sowie den Zeichen _ oder . bestehen.\nSie müssen mit einem Buchstaben beginnen und dürfen keine Leerzeichen enthalten.\nSonderzeichen und Großbuchstaben sollten vermieden werden.\nKeine Namen verwenden, die bereits für Funktionen reserviert sind (z. B. mean()).\nDer Name sollte den Inhalt der Variablen möglichst gut beschreiben → Reproduzierbarkeit; clarity instead of brevity.\nAm besten englische Bezeichnungen verwenden, um internationalen Standards zu folgen.\n\n👉 Mehr dazu\nÜbung:\n\nDefiniere eine neue Variable nach snake_case.\nDefiniere eine zweite Variable nach CamelCase.\n\nIn unserem Seminar verwenden wir den snake_case.\n\n\n\n\n\nSpeichere die beiden höchsten Werte aus «first_vector» in einer neuen Variable ab (Tipp: verwende sort() )\nErstelle einen Vektor mit Werten von 0-1000 in 10er Schritten (Tipp: suche nach der Funktion seq()\nZiehe zufällig eine Zahl aus diesem Vektor\nGeneriere einen Vektor, der aus 50 Wiederholungen der Zahl 3 besteht\n\nTipps zu diesen Aufgaben findest du bei Bedarf hier: https://methodenlehre.github.io/einfuehrung-in-R/chapters/02-R-language.html (Kapitel 2.1)\nTipp: Suche nach der Dokumentation der folgenden Funktionen: sort(), seq(), sample, rep().\nDie Dokumentation kannst du mittels ?Funktionsname aufrufen.\n\n\n\n\nnumeric vectors: werden in integer (ganze Zahlen) und double (reelle Zahlen) unterteilt, z.B.\nnumerical_vector &lt;- c(1, 2.5, 4)\ncharacter vectors: bestehen aus Zeichen, welche von Anführungszeichen umgeben werden, z.B.\ntext_vector &lt;- c(\"Hello\", \"World\")\nlogical vectors: Elemente dieses Typs können nur 3 Werte annehmen: TRUE, FALSE oder NA\nlog_vector &lt;- c(TRUE, FALSE, TRUE)\n\nVektoren müssen aus denselbsten Elementen bestehen, d.h. z.B. numeric und character können nicht gemischt werden. Vektoren werden meist mit c() erstellt."
+  },
+  {
+    "objectID": "hands_on_1.html#installation-r-und-r-studio",
+    "href": "hands_on_1.html#installation-r-und-r-studio",
+    "title": "Hands On 1",
+    "section": "",
+    "text": "Installiere R und RStudio:\n\nInstallation von R – neueste Version 4.5.1: https://stat.ethz.ch/CRAN/\nInstallation von RStudio (Version 2025.09.0): https://posit.co/download/rstudio-desktop/\n\nDu weisst nicht was mit R auf sich hat? Hier ist eine Kurzerklärung: https://methodenlehre.github.io/einfuehrung-in-R/"
+  },
+  {
+    "objectID": "hands_on_1.html#einstellungen",
+    "href": "hands_on_1.html#einstellungen",
+    "title": "Hands On 1",
+    "section": "",
+    "text": "RStudio öffnen & Einstellungen vornehmen: Unter «tools» –«global options» die unter 1.1. beschriebenen Einstellungen vornehmen:\nhttps://methodenlehre.github.io/einfuehrung-in-R/chapters/01-workflow.html\n\n\n\nNeues Skript öffnen & orientieren"
+  },
+  {
+    "objectID": "hands_on_1.html#rstudio-oberfläche",
+    "href": "hands_on_1.html#rstudio-oberfläche",
+    "title": "Hands On 1",
+    "section": "",
+    "text": "Im folgenden machen wir uns vertraut mit der Oberfläche von RStudio:\n\n\n\n\n\n\n\nSkript für Code-Eingabe sowie Kommentare\nKonsole für die Ausführung von Code -&gt; Teste einfache mathematische Operation in dieser; reproduziere diese mittels Skript\nRechts oben: Environment & History\nRechts unten: Files, Plots, Packages und Help Viewer"
+  },
+  {
+    "objectID": "hands_on_1.html#pakete-installieren-und-laden",
+    "href": "hands_on_1.html#pakete-installieren-und-laden",
+    "title": "Hands On 1",
+    "section": "",
+    "text": "Tidyverse ist ein Meta-Paket, das mehrere Pakete umfasst\n\nPakete installieren (nur 1x notwendig) -&gt; führe diesen Code in der Konsole aus\n\ninstall.packages(\"tidyverse\")\n\nPaket laden (innerhalb des Skriptes, bei jedem Neustart von R notwendig)\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.1     ✔ stringr   1.5.2\n✔ ggplot2   4.0.0     ✔ tibble    3.3.0\n✔ lubridate 1.9.4     ✔ tidyr     1.3.1\n✔ purrr     1.1.0     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n\nTipp: Pakete regelmässig updaten mit z.B. update.packages()"
+  },
+  {
+    "objectID": "hands_on_1.html#operatoren-kennenlernen",
+    "href": "hands_on_1.html#operatoren-kennenlernen",
+    "title": "Hands On 1",
+    "section": "",
+    "text": "a. Nutze R als Taschenrechner\n\n123+456\n144*112\n10/3\nQuadriere 420\nZiehe die Quadratwurzel aus 146 mit der Funktion sqrt()\nBerechne den Rest der Division 10/3 mit dem Modulo Operator: %%\n\n\n\n\n\n\n\nZeichen\nBedeutung\n\n\n\n\n+\nAddition\n\n\n-\nSubstraktion\n\n\n*\nMultiplikation\n\n\n/\nDivision\n\n\nsqrt(x)\nQuadratwurzel\n\n\nabs(x)\nBetrag (absoluter Wert)\n\n\nx %% y\nModulo (x mod y) 5 %% 2 = 1\n\n\n^\nPotenz"
+  },
+  {
+    "objectID": "hands_on_1.html#erste-zuweisungenvariablen-definieren",
+    "href": "hands_on_1.html#erste-zuweisungenvariablen-definieren",
+    "title": "Hands On 1",
+    "section": "",
+    "text": "Weise den Wert 5 der Variable x zu mit dem Operator &lt;-\nWeise eine beliebige Zahl der Variable y zu und dividiere dann x durch y. Speichere dieses Ergebnis in der Variable z.\nSchaue dir das Ergebnis in deinem Environment an. Lass dir das Ergebnis auch in der Konsole ausgeben. Das Environment findest du oben rechts, die Konsole ist unter deinem Skript.\nErstelle zwei Variablen: Eine mit deinem Vornamen und eine mit deinem Nachnamen. Solche “character” Variablen musst du in Anführungszeichen setzen \"\"\nKombiniere deinen Vor- und Nachnamen zu deinem vollen Namen mittels paste . Speichere diese Variable als voller_name."
+  },
+  {
+    "objectID": "hands_on_1.html#vektoren-definieren",
+    "href": "hands_on_1.html#vektoren-definieren",
+    "title": "Hands On 1",
+    "section": "",
+    "text": "Definiere einen Vektor «first_vector» mit den Zahlen 100, 80, 54, 73. Einen Vektor definiert man so: first_vector &lt;- c(...)\nWende den Befehl boxplot() auf deinen Vektor an\nBerechne die Summe sum()und den Mittelwert mean() von deinem Vektor\nMultipliziere deinen Vektor mit *2 und schaue dir das Ergebnis an.\n\nDie wichtigsten Operatoren und Funktionen in R: https://methodenlehre.github.io/einfuehrung-in-R/chapters/02-R-language.html\n\n\n\n\n\nFunktion\nBedeutung\n\n\n\n\nmean(x, na.rm =FALSE)\nMittelwert\n\n\nsd(x)\nStandardabweichung\n\n\nvar(x)\nVarianz\n\n\nmedian(x)\nMedian\n\n\nsum(x)\nSumme\n\n\nmin(x)\nMinimalwert\n\n\nmax(x)\nMaximalwert\n\n\nrange(x)\nMinimal - und Maximalwert"
+  },
+  {
+    "objectID": "hands_on_1.html#logische-operatoren",
+    "href": "hands_on_1.html#logische-operatoren",
+    "title": "Hands On 1",
+    "section": "",
+    "text": "Teste ob die Zahl 5 größer als 2 ist –&gt; TRUE or FALSE?\nTeste ob 6 ungleich 8 ist –&gt; TRUE or FALSE?\nSubtrahiere 80 von 50 und speichere das Ergebnis in einer Variable namens «diff_score».\nBerechne mit abs() den absoluten Wert von «diff_score» lasse dir diesen mit print(diff_score) in der Konsole ausgeben.\n\n\n\n\n\n\nZeichen\nBedeutung\n\n\n\n\n==\ngleich\n\n\n!=\nungleich\n\n\n&gt;\ngrösser\n\n\n&gt;=\ngrösser gleich\n\n\n&lt;\nkleiner\n\n\n&lt;=\nkleiner gleich\n\n\n|\nLogisches Oder\n\n\n&\nLogisches Und"
+  },
+  {
+    "objectID": "hands_on_1.html#nachvollziehbarkeit-von-code",
+    "href": "hands_on_1.html#nachvollziehbarkeit-von-code",
+    "title": "Hands On 1",
+    "section": "",
+    "text": "Informative Kommentare im Code sind elementar für die Nachvollziehbarkeit.\n\nSchreibe einen Kommentar indem du ein # verwendest.\nCode der nach einem # steht wird nicht ausgeführt. Setze ein # vor eine Codezeile und führe sie aus und beobachte was passiert.\n\n\n\n\nEs gibt verschiedene Konventionen, wie man Variablen benennen kann.\nEinige wichtige Grundsätze dafür sind:\n\nNamen können aus Buchstaben, Zahlen sowie den Zeichen _ oder . bestehen.\nSie müssen mit einem Buchstaben beginnen und dürfen keine Leerzeichen enthalten.\nSonderzeichen und Großbuchstaben sollten vermieden werden.\nKeine Namen verwenden, die bereits für Funktionen reserviert sind (z. B. mean()).\nDer Name sollte den Inhalt der Variablen möglichst gut beschreiben → Reproduzierbarkeit; clarity instead of brevity.\nAm besten englische Bezeichnungen verwenden, um internationalen Standards zu folgen.\n\n👉 Mehr dazu\nÜbung:\n\nDefiniere eine neue Variable nach snake_case.\nDefiniere eine zweite Variable nach CamelCase.\n\nIn unserem Seminar verwenden wir den snake_case."
+  },
+  {
+    "objectID": "hands_on_1.html#für-fortgeschrittene-r-nutzerinnen",
+    "href": "hands_on_1.html#für-fortgeschrittene-r-nutzerinnen",
+    "title": "Hands On 1",
+    "section": "",
+    "text": "Speichere die beiden höchsten Werte aus «first_vector» in einer neuen Variable ab (Tipp: verwende sort() )\nErstelle einen Vektor mit Werten von 0-1000 in 10er Schritten (Tipp: suche nach der Funktion seq()\nZiehe zufällig eine Zahl aus diesem Vektor\nGeneriere einen Vektor, der aus 50 Wiederholungen der Zahl 3 besteht\n\nTipps zu diesen Aufgaben findest du bei Bedarf hier: https://methodenlehre.github.io/einfuehrung-in-R/chapters/02-R-language.html (Kapitel 2.1)\nTipp: Suche nach der Dokumentation der folgenden Funktionen: sort(), seq(), sample, rep().\nDie Dokumentation kannst du mittels ?Funktionsname aufrufen."
+  },
+  {
+    "objectID": "hands_on_1.html#datentypen",
+    "href": "hands_on_1.html#datentypen",
+    "title": "Hands On 1",
+    "section": "",
+    "text": "numeric vectors: werden in integer (ganze Zahlen) und double (reelle Zahlen) unterteilt, z.B.\nnumerical_vector &lt;- c(1, 2.5, 4)\ncharacter vectors: bestehen aus Zeichen, welche von Anführungszeichen umgeben werden, z.B.\ntext_vector &lt;- c(\"Hello\", \"World\")\nlogical vectors: Elemente dieses Typs können nur 3 Werte annehmen: TRUE, FALSE oder NA\nlog_vector &lt;- c(TRUE, FALSE, TRUE)\n\nVektoren müssen aus denselbsten Elementen bestehen, d.h. z.B. numeric und character können nicht gemischt werden. Vektoren werden meist mit c() erstellt."
+  },
+  {
+    "objectID": "statistic.html",
+    "href": "statistic.html",
+    "title": "4 Statistik",
+    "section": "",
+    "text": "Fragen zu Statistik"
+  },
+  {
+    "objectID": "statistic.html#was-ist-das-partielle-η²-und-wie-unterscheidet-es-sich-von-dem-generalisierten-η²",
+    "href": "statistic.html#was-ist-das-partielle-η²-und-wie-unterscheidet-es-sich-von-dem-generalisierten-η²",
+    "title": "4 Statistik",
+    "section": "Was ist das partielle η² und wie unterscheidet es sich von dem generalisierten η²?",
+    "text": "Was ist das partielle η² und wie unterscheidet es sich von dem generalisierten η²?\nDas generalisierte und partielle η² sind beides Masse, welche den Anteil an erklärter Varianz einer abhängigen Variable angeben. Das generalisierte η² berechnet den Anteil der erklärten Varianz einer abhängigen Variable unter Einbezug der gesamten Varianz, also aller Effekte. Das partielle η² beachtet bei der Berechnung des Anteils an erklärter Varianz für die abhängige Variable nicht die gesamte Varianz, sondern nur jene, welche dem zuvor definierten Effekt zugeschrieben werden kann.\n\n\n\n\n\n\nNote\n\n\n\nWeiterführende Informationen finden sich hier."
+  },
+  {
+    "objectID": "statistic.html#wozu-muss-sphärizität-gegeben-sein-und-wie-kann-man-diese-testen",
+    "href": "statistic.html#wozu-muss-sphärizität-gegeben-sein-und-wie-kann-man-diese-testen",
+    "title": "4 Statistik",
+    "section": "Wozu muss Sphärizität gegeben sein und wie kann man diese testen?",
+    "text": "Wozu muss Sphärizität gegeben sein und wie kann man diese testen?\nUnter Sphärizität versteht man die Annahme, dass bei Messwiederholungen die Differenzen von zwei beliebigen Messwiederholungen ähnliche Varianzen aufweisen. Dies kann mit dem Mauchly-Test geprüft werden. Laut Nullhypothese sind die entsprechenden Varianzen gleich, laut Alternativhypothese sind die entsprechenden Varianzen unterschiedlich. Dementsprechend spricht ein signifikanter Mauchly-Test für eine Verletzung der Sphärizitätsannahme. In diesem Fall kann auf die Greenhouse-Geisser Korrektur zurückgegriffen werden."
+  },
+  {
+    "objectID": "statistic.html#was-macht-eine-tukey-korrektur-und-was-sagt-uns-das-ergebnis",
+    "href": "statistic.html#was-macht-eine-tukey-korrektur-und-was-sagt-uns-das-ergebnis",
+    "title": "4 Statistik",
+    "section": "Was macht eine Tukey-Korrektur und was sagt uns das Ergebnis?",
+    "text": "Was macht eine Tukey-Korrektur und was sagt uns das Ergebnis?\nDie Tukey-Korrektur wird angewendet, um im Anschluss an eine signifikante ANOVA die Mittelwertsunterschiede der einzelnen Gruppen unter Kontrolle für multiples Testen einzeln zu untersuchen. Hierdurch wird eine Inflation der falsch-negativen Rate bzw. des p-Wertes vermieden. Bei Verwendung dieses Tests können die Ergebnisse der Mittelwertsvergleiche somit unmittelbar auf ihre Signifikanz hin bewertet werden."
+  },
+  {
+    "objectID": "statistic.html#wann-benötigt-die-berechnung-einer-anova-einen-wide-datensatz-und-wann-benötigt-die-berechnung-einer-anova-einen-long-datensatz",
+    "href": "statistic.html#wann-benötigt-die-berechnung-einer-anova-einen-wide-datensatz-und-wann-benötigt-die-berechnung-einer-anova-einen-long-datensatz",
+    "title": "4 Statistik",
+    "section": "Wann benötigt die Berechnung einer ANOVA einen wide-Datensatz und wann benötigt die Berechnung einer ANOVA einen long-Datensatz?",
+    "text": "Wann benötigt die Berechnung einer ANOVA einen wide-Datensatz und wann benötigt die Berechnung einer ANOVA einen long-Datensatz?\nIn welchem Format der Datensatz vor der Berechnung einer ANOVA vorliegen muss hängt von der verwendeten ANOVA-Funktion ab und kann nicht pauschal beantwortet werden. Grundsätzlich gilt aber, für eine ANOVA ohne Messwiederholung ist ein wide-Datensatz meist ausreichend. Die Funktion aov_4(), welche bei ANOVAs mit Messwiederholung verwendet werden kann, benötigt eine gesonderte Variable, welche den Zeitpunkt der Messung angibt, sprich das long-Format. Hier ein Beispiel wie die Umwandlug in ein long-Format und eine anschliessende Berechnung von einer ANOVA mit Messwiederholung aussehen könnte:\n\ndata_long &lt;- data_wide |&gt; \n  pivot_longer(\n    cols = c(Spalte1, Spalte2, Spalte3), \n    names_to = \"Hier kommt der Name der Spalte rein, in welcher die früheren Spaltenüberschriften abgelegt sind\", \n    values_to = \"Hier kommt der Name der Spalte rein, in welcher die Werte der entsprechenden früheren Spalten abgelegt sind\"\n  )\n\nafex::aov_4(value ~ treatment + (time | Personenidentifikationscode), data = data_long) # Beispiel mit(!) Messwiederholung\n\n\n\n\n\n\n\nNote\n\n\n\nFür die Funktion aov_4() gibt es aus Statistik-IV von Boris Mayer und Stefan Thoma noch tiefere und beispielhafte Ausführungen."
+  },
+  {
+    "objectID": "statistic.html#was-wird-bei-einem-levene-test-berechnet-bzw.-geprüft",
+    "href": "statistic.html#was-wird-bei-einem-levene-test-berechnet-bzw.-geprüft",
+    "title": "4 Statistik",
+    "section": "Was wird bei einem Levene-Test berechnet bzw. geprüft?",
+    "text": "Was wird bei einem Levene-Test berechnet bzw. geprüft?\nDer Levene-Test prüft die Varianzhomogenität zwischen Gruppen. Als Nullhypothese gilt hierbei, dass die Varianzen zwischen den Gruppen gleich sind. Als Alternativhypothese gilt, dass die Varianzen zwischen den Gruppen unterschiedlich sind. Dementsprechend besagt ein signifikanter Levene-Test, dass es Varianzunterschiede zwischen den Gruppen gibt und die Annahme der Varianzhomogenität verworfen werden muss."
+  },
+  {
+    "objectID": "statistic.html#wird-ein-levene-test-für-den-between-faktor-berechnet-und-muss-diese-berechnung-für-jede-abhängige-variable-einzeln-gemacht-werden",
+    "href": "statistic.html#wird-ein-levene-test-für-den-between-faktor-berechnet-und-muss-diese-berechnung-für-jede-abhängige-variable-einzeln-gemacht-werden",
+    "title": "4 Statistik",
+    "section": "Wird ein Levene-Test für den between-Faktor berechnet und muss diese Berechnung für jede abhängige Variable einzeln gemacht werden?",
+    "text": "Wird ein Levene-Test für den between-Faktor berechnet und muss diese Berechnung für jede abhängige Variable einzeln gemacht werden?\nFür beide Fragen gilt: Ja! Der Levene-Test vergleicht die Varianzen von mindestens zwei Gruppen. Dementsprechend kann ein Levene-Test nur für einen between-Faktor durchgeführt werden. Darüber hinaus kann ein einzelner Levene-Test nur die Varianzverteilung einer abhängigen Variable (über alle Gruppen hinweg) betrachten. Daher muss für jede abhängige Variable, für die die Annahme der Varianzhomogenität benötigt wird und infrage steht, ein Levene-Test berechnet werden."
+  },
+  {
+    "objectID": "statistic.html#ist-vor-der-berechnung-einer-anova-notwendigerweise-ein-levene-test-durchzuführen",
+    "href": "statistic.html#ist-vor-der-berechnung-einer-anova-notwendigerweise-ein-levene-test-durchzuführen",
+    "title": "4 Statistik",
+    "section": "Ist vor der Berechnung einer ANOVA notwendigerweise ein Levene-Test durchzuführen?",
+    "text": "Ist vor der Berechnung einer ANOVA notwendigerweise ein Levene-Test durchzuführen?\nDie Durchführung eines Levene-Tests vor der ANOVA ist dann notwendig, wenn die Varianzhomogenität zwischen Gruppen nicht anderweitig ersichtlich ist. Zeigen die Daten beispielsweise gleich grosse Stichproben und normalverteilte Verteilungen der Werte innerhalb der Gruppen, dann kann von Varianzhomogenität auch ohne den Levene-Test ausgegangen werden. Auf alle Fälle sollte man vor der Datenanalyse festlegen, ob ein Levene Test berechnet wird oder nicht, Und gegebenenfalls ein Verfahren definieren für den Fall das die Varianzhomogenität nicht gegeben ist (z.B. ein nichtparametrisches Verfahren wie die Welch-ANOVA)"
+  },
+  {
+    "objectID": "statistic.html#welche-masse-für-effektstärken-werden-üblicherweise-bei-einer-anova-und-einem-post-hoc-t-test-berichtet",
+    "href": "statistic.html#welche-masse-für-effektstärken-werden-üblicherweise-bei-einer-anova-und-einem-post-hoc-t-test-berichtet",
+    "title": "4 Statistik",
+    "section": "Welche Masse für Effektstärken werden üblicherweise bei einer ANOVA und einem (post-hoc) t-Test berichtet?",
+    "text": "Welche Masse für Effektstärken werden üblicherweise bei einer ANOVA und einem (post-hoc) t-Test berichtet?\nBei einer ANOVA wird im Rahmen des Seminars, sofern nicht anders verlangt, das Effektstärkemass η² berichtet. Bei (post-hoc) t-Tests wird im Rahmen des Seminars, sofern nicht anders verlangt, das Effektstärkemass von Cohens` d verwendet."
+  },
+  {
+    "objectID": "statistic.html#bei-der-analyse-der-internen-konsistenz-mit-der-funktion-alpha-erscheint-die-fehlermeldung-warnung-some-items-were-negatively-correlated-with-the-first-principal-component-and-probably-should-be-reversed.-to-do-this-run-the-function-again-with-the-check.keystrue-option.-was-bedeutet-diese-warnmeldung-und-kann-man-sie-einfach-ignorieren-oder-muss-sie-weiter-berücksichtigt-werden",
+    "href": "statistic.html#bei-der-analyse-der-internen-konsistenz-mit-der-funktion-alpha-erscheint-die-fehlermeldung-warnung-some-items-were-negatively-correlated-with-the-first-principal-component-and-probably-should-be-reversed.-to-do-this-run-the-function-again-with-the-check.keystrue-option.-was-bedeutet-diese-warnmeldung-und-kann-man-sie-einfach-ignorieren-oder-muss-sie-weiter-berücksichtigt-werden",
+    "title": "4 Statistik",
+    "section": "Bei der Analyse der internen Konsistenz mit der Funktion alpha() erscheint die Fehlermeldung: „Warnung: Some items were negatively correlated with the first principal component and probably should be reversed. To do this, run the function again with the ‘check.keys=TRUE’ option“. Was bedeutet diese Warnmeldung und kann man sie einfach ignorieren oder muss sie weiter berücksichtigt werden?",
+    "text": "Bei der Analyse der internen Konsistenz mit der Funktion alpha() erscheint die Fehlermeldung: „Warnung: Some items were negatively correlated with the first principal component and probably should be reversed. To do this, run the function again with the ‘check.keys=TRUE’ option“. Was bedeutet diese Warnmeldung und kann man sie einfach ignorieren oder muss sie weiter berücksichtigt werden?\nDiese Warnmeldung - in Verbindung mit der Funktion alpha() zur Berechnung der internen Konsistenz - weist darauf hin, dass ein Item invers codiert sein könnte, da es nur einen geringen oder sogar negativen Zusammenhang zu den anderen Items aufweist. Dies kann daran liegen, dass das Item den Versuchspersonen invers vorgelegt worden war und lediglich vergessen wurde, die Skala anschliessend erneut zu invertieren. Das Item kann aber auch in die „richtige“ Richtung codiert sein und die Kennwerte des Items erklären sich durch weitere Umstände wie beispielsweise eine kleine Stichprobe. Abhängig davon welcher Fall zutrifft müsste das Item vor der Berechnung der internen Konsistenz entweder noch invertiert oder die Warnmeldung kann ignoriert werden."
+  },
+  {
+    "objectID": "1_presentation(1).html#beispielhafte-chunks-output",
+    "href": "1_presentation(1).html#beispielhafte-chunks-output",
+    "title": "ryouready.github.io",
+    "section": "Beispielhafte Chunks & Output",
+    "text": "Beispielhafte Chunks & Output\n\n\n\nprint(\"Hello world!\")\n\n[1] \"Hello world!\"\n\n\n\n\n2+2\n\n[1] 4"
+  },
+  {
+    "objectID": "1_presentation(1).html#beispielhafte-formatierung",
+    "href": "1_presentation(1).html#beispielhafte-formatierung",
+    "title": "ryouready.github.io",
+    "section": "Beispielhafte Formatierung",
+    "text": "Beispielhafte Formatierung\nDiese Präsentation verwendet Reveal.js in Quarto\n\n\n\n\n\n\nHinweis\n\n\nAuf den Folien sind erst einmal nur Beispiele zu sehen, wie man mit Quarto Präsentationen einfach Code einbinden und zeigen kann."
+  },
+  {
+    "objectID": "1_presentation(1).html#beispielhafter-datensatz",
+    "href": "1_presentation(1).html#beispielhafter-datensatz",
+    "title": "ryouready.github.io",
+    "section": "Beispielhafter Datensatz",
+    "text": "Beispielhafter Datensatz\n\nhead(mtcars)\n\n                   mpg cyl disp  hp drat    wt  qsec vs am gear carb\nMazda RX4         21.0   6  160 110 3.90 2.620 16.46  0  1    4    4\nMazda RX4 Wag     21.0   6  160 110 3.90 2.875 17.02  0  1    4    4\nDatsun 710        22.8   4  108  93 3.85 2.320 18.61  1  1    4    1\nHornet 4 Drive    21.4   6  258 110 3.08 3.215 19.44  1  0    3    1\nHornet Sportabout 18.7   8  360 175 3.15 3.440 17.02  0  0    3    2\nValiant           18.1   6  225 105 2.76 3.460 20.22  1  0    3    1"
+  },
+  {
+    "objectID": "1_presentation(1).html#beispielhafter-ggplot-code-und-plot",
+    "href": "1_presentation(1).html#beispielhafter-ggplot-code-und-plot",
+    "title": "ryouready.github.io",
+    "section": "Beispielhafter ggplot-code und plot",
+    "text": "Beispielhafter ggplot-code und plot\n\nggplot(data = mtcars, aes(x = hp, y = mpg, color = factor(cyl))) +\n  geom_point(size = 3) +\n  labs(\n    title = \"PS vs. Verbrauch\",\n    x = \"Horsepower (hp)\",\n    y = \"Miles per Gallon (mpg)\",\n    color = \"Zylinder\"\n  ) +\n  theme_minimal()"
+  },
+  {
+    "objectID": "1_presentation(1).html#beispielhafter-ggplot-code-und-plot-output",
+    "href": "1_presentation(1).html#beispielhafter-ggplot-code-und-plot-output",
+    "title": "ryouready.github.io",
+    "section": "Beispielhafter ggplot-code und plot",
+    "text": "Beispielhafter ggplot-code und plot"
+  },
+  {
+    "objectID": "hands_on_2.html",
+    "href": "hands_on_2.html",
+    "title": "Hands_On_2",
+    "section": "",
+    "text": "3te: projekte, einleksen und matrizen und listen.\nmatitzen vs. listen vs. dfs.\n4te einheit: mergen\nBei Bedarf findest du hier nochmals die Slides zu Einheit 3:\n\n\n\n\nVerstehen von Pfaden und Projekten:\n\nRelativ vs. Absolut\nProjekte\n\nCoding Basics:\n\nDaten einlesen\nDaten exportieren\nDatensätze mergen (zusammenfügen)\n\nVor- und Nachteile verschiedener Funktionen kennenlernen (Wann brauche ich welche Funktion?)\n\n\nListe und Matrizen"
+  },
+  {
+    "objectID": "hands_on_2.html#lernziele-dieses-hands-on-blocks",
+    "href": "hands_on_2.html#lernziele-dieses-hands-on-blocks",
+    "title": "Hands_On_2",
+    "section": "",
+    "text": "Verstehen von Pfaden und Projekten:\n\nRelativ vs. Absolut\nProjekte\n\nCoding Basics:\n\nDaten einlesen\nDaten exportieren\nDatensätze mergen (zusammenfügen)\n\nVor- und Nachteile verschiedener Funktionen kennenlernen (Wann brauche ich welche Funktion?)\n\n\nListe und Matrizen"
+  },
+  {
+    "objectID": "hands_on_2.html#import",
+    "href": "hands_on_2.html#import",
+    "title": "Hands_On_2",
+    "section": "Import",
+    "text": "Import\n👉 Kapitel 3.2\n\nEinlesen via Oberfläche\n\nStelle sicher, dass du das Metapaket tidyverse geladen hast (siehe Hands-On 1).\nWir verwenden Funktionen aus den Packages readr und readxl, die Teil des Tidyverse sind.\nImportiere die Datei \"data_mmq.csv\" über die Point-Click-Oberfläche von RStudio.\n\nTipp: Klicke auf Environment → Import Dataset → wähle \"readr\"-Funktion.\nSchaue dir den Datensatz an: Mit welchem Trennzeichen sind die Daten getrennt?\n\nStelle in der Oberfläche \"Delimiter\" auf das passende Trennzeichen. Was verändert sich?\n\nBetrachte den Code, den die Oberfläche generiert. Versuche den Pfad im Kontext von Projekten zu verstehen.\nSchaue dir die eingelesenen Daten mit view(data_mmq) an.\n\n\n\n\nEinlesen via Code\nXXXXX Namen updaten.\n\nVersuche, weitere CSV-Datensätze einzulesen: cbt_prop, cvstm_prop, data_pct, vp_prop.\nSuche dafür eine geeignete Funktion zum Einlesen von .csv.\nXXXXX Korrigiere diesen Code.\nKorrigiere diesen Code und lies damit die Datei vp_prop ein:\nEinige Dateien liegen im .xlsx-Format.\n\nVerwende dafür das Paket readxl und die Funktion read_excel().\nNutze die Hilfefunktion (?read_excel) für Infos.\nVersuche, die Datensätze data_ratings und data_strategies einzulesen.\n\nAm Ende solltest du 7 verschiedene Datensätze in deinem Environment sehen."
+  },
+  {
+    "objectID": "hands_on_2.html#datensätze-inspizieren",
+    "href": "hands_on_2.html#datensätze-inspizieren",
+    "title": "Hands_On_2",
+    "section": "Datensätze inspizieren",
+    "text": "Datensätze inspizieren\nVerschaffe dir eine Übersicht über die Datensätze, verwende dabei die verschiedenen Funktionen die wir dafür bereits im Hands-on 1 kenengelernt haben:\n\nhead()\nglimpse()\nstr()\ndata_cbt\nsummary()"
+  },
+  {
+    "objectID": "hands_on_2.html#listen",
+    "href": "hands_on_2.html#listen",
+    "title": "Hands_On_2",
+    "section": "Listen",
+    "text": "Listen\nEine Liste kann verschiedene Datentypen enthalten (z. B. Zahlen, Zeichenketten, logische Werte).\n👉 [Listen, Kapitel\n\nErstelle eine Liste mit drei Elementen:\n\neinem Vektor mit den Zahlen 1 bis 5\neinem Character-Vektor mit den Namen deiner Kommiliton:innen\neinem logischen Vektor (TRUE, FALSE)\n\nGreife auf das zweite Element der Liste zu.\nGreife auf den dritten Wert des ersten Elements der Liste zu.\nFüge der Liste ein weiteres Element hinzu (z. B. den Mittelwert der Zahlen)."
+  },
+  {
+    "objectID": "hands_on_2.html#matrizen",
+    "href": "hands_on_2.html#matrizen",
+    "title": "Hands_On_2",
+    "section": "Matrizen",
+    "text": "Matrizen\nEine Matrix besteht nur aus einem Datentyp (z. B. nur Zahlen).\n\nErstelle eine 3x3-Matrix mit den Zahlen 1 bis 9.\nWandle einen Vektor 1:12 in eine 3x4-Matrix um.\nGreife auf das Element in der 2. Zeile, 3. Spalte zu.\nBerechne die Spaltensummen und Zeilensummen."
+  },
+  {
+    "objectID": "EH_1.html#r-u-ready-reproduzierbare-datenaufbereitung-und--analyse",
+    "href": "EH_1.html#r-u-ready-reproduzierbare-datenaufbereitung-und--analyse",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "R u Ready? Reproduzierbare Datenaufbereitung und -analyse",
+    "text": "R u Ready? Reproduzierbare Datenaufbereitung und -analyse\nHS 2025 LV-Leitung: Dr. Sandra Grinschgl / MSc. Aaron Friedli Tutor: BSc. Lars Schilling1. Einheit, 17.09.2025"
+  },
+  {
+    "objectID": "EH_1.html#lv-leitung",
+    "href": "EH_1.html#lv-leitung",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "LV-Leitung",
+    "text": "LV-Leitung\n\n\nDr. Sandra Grinschgl (sie/ihr)\n\nDozentur für «Mensch in digitaler Transformation»\n\nArbeitsbereich Psychologie der Digitalisierung\n\nFabrikstrasse 8, Raum D 262\n\nsandra.grinschgl@unibe.ch\n\nSprechstunde nach Vereinbarung\n\nFun Fact: ist fasziniert davon wie sich Schweizer:innen den Zahnarzt leisten können"
+  },
+  {
+    "objectID": "EH_1.html#lv-leitung-2",
+    "href": "EH_1.html#lv-leitung-2",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "LV-Leitung (2)",
+    "text": "LV-Leitung (2)\n\n\nAaron Friedli (er/ihm) (MSc. Psychologie)\n\nLehrassistenz R you Ready / Methodenberatung\n\nFabrikstrasse 8, A263\n\nSprechstunde/Methodenberatung nach Vereinbarung\n\naaron.friedli@unibe.ch\nWeiss nie, ob ich ‘R’ Englisch oder Deutsch aussprechen soll."
+  },
+  {
+    "objectID": "EH_1.html#lv-leitung-3",
+    "href": "EH_1.html#lv-leitung-3",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "LV-Leitung (3)",
+    "text": "LV-Leitung (3)\n\n\nLars Schilling (er/ihm)(BSc. Psychologie)\n\nTutor R you Ready\n\nFabrikstrasse 8, D266\n\nSprechstunde nach Vereinbarung\n\nlars.schilling@unibe.ch\nWundert sich noch immer über die pünktlichen Züge in der Schweiz"
+  },
+  {
+    "objectID": "EH_1.html#barrierefreiheit",
+    "href": "EH_1.html#barrierefreiheit",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Barrierefreiheit!",
+    "text": "Barrierefreiheit!\nBitte melde dich auf einem für dich angemessenem Weg bei uns, wenn dir in dieser Lehrveranstaltung Barrieren begegnen, die auszugleichen sind."
+  },
+  {
+    "objectID": "EH_1.html#pronomennamen",
+    "href": "EH_1.html#pronomennamen",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Pronomen/Namen",
+    "text": "Pronomen/Namen\nBitte gebt uns auch Bescheid, falls wir euch falsch ansprechen!\n\nIllustration: Freepik"
+  },
+  {
+    "objectID": "EH_1.html#österreichisch-vs.-berndeutsch",
+    "href": "EH_1.html#österreichisch-vs.-berndeutsch",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Österreichisch vs. Berndeutsch",
+    "text": "Österreichisch vs. Berndeutsch\nBitte gebt mir/uns auch Bescheid solltet ihr etwas nicht verstehen! Seht es uns nach falls wir etwas nicht verstehen und nachfragen!\n\n\n\n\n\nUhrturm Graz: Foto C. Stadler/Bwag\n\n\n\n\n\n\nFoto: https://en.wikipedia.org/wiki/Zytglogge#/media/File:Zytglogge_01.jpg"
+  },
+  {
+    "objectID": "EH_1.html#organisatorisches",
+    "href": "EH_1.html#organisatorisches",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Organisatorisches",
+    "text": "Organisatorisches\n\n🕝 Immer Mittwochs um 10:15 (Gruppe Aaron) / 16:15 (Gruppe Sandra)\n📍Fabrikstrasse 8, Raum B101\n💻 Eigener Laptop mit R-Studio notwendig\n📁Unterlagen auf ILIAS und Website\n📅 14 Einheiten\n🛫 Maximal 2 unentschuldigte Fehltermine\n\n\nKeine Pause - Selbstständig wenn nötig."
+  },
+  {
+    "objectID": "EH_1.html#website-navigation-und-inhalte",
+    "href": "EH_1.html#website-navigation-und-inhalte",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Website: Navigation und Inhalte",
+    "text": "Website: Navigation und Inhalte\n\nAuf Quarto Website:\n\nAlle Präsentationen\n\nAuch als PDF verfügbar (PDF-Mode)\n\nAlle Hands On Übungen\nFAQ\nAdministrative Infos, z. B. Details zum Leistungsnachweis\n\nAuf ILIAS\n\nDownloads:\n\nFiles\n\nUploads (d.h. Abgaben)\nForum für Fragen und Peer Feedback"
+  },
+  {
+    "objectID": "EH_1.html#themen-der-lehrveranstaltung",
+    "href": "EH_1.html#themen-der-lehrveranstaltung",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Themen der Lehrveranstaltung",
+    "text": "Themen der Lehrveranstaltung\nZiele\n\nMethodenkenntnisse in R auffrischen & festigen\nTransfer von Statistik-Bachelorwissen auf Datenaufbereitung & -analyse\nErwerb konzeptueller & praktischer Kompetenzen\n\nAblauf\n\nDatenanalyseplan & Codebook\nR Basics\nReproduzierbare Datenaufbereitung (u.a. mit tidyverse)\nReproduzierbare Datenanalyse (u.a. mit tidyverse)\n\nFormat\n\nPräsenz: Input & Anwendung\nHausübungen & Abschlussprojekt\n\n\nKontinuierlicher Lernaufwand während dem Semester - Dafür keine Prüfung"
+  },
+  {
+    "objectID": "EH_1.html#lernziele",
+    "href": "EH_1.html#lernziele",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Lernziele",
+    "text": "Lernziele\n\nKonzeptionell: Schritte der Datenaufbereitung und -analyse im Analyseplan begründen (WAS muss ich tun & WARUM)\nPraktisch: Reproduzierbare Datenaufbereitung (WIE Daten in ein analysierbares Format bringen)\nPraktisch: Reproduzierbare Datenanalyse (WIE Fragestellungen und Hypothesen testen)\n\nNach dem Seminar können Studierende\n\nGrundkenntnisse in R / RStudio anwenden\nNotwendige Schritte für reproduzierbare Datenaufbereitung und -analyse überblicken und praktisch umsetzen\nSelbständig neue Analyse-Herausforderungen bewältigen und passende Ressourcen nutzen"
+  },
+  {
+    "objectID": "EH_1.html#was-das-seminar-nicht-leisten-kann",
+    "href": "EH_1.html#was-das-seminar-nicht-leisten-kann",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Was das Seminar nicht leisten kann:",
+    "text": "Was das Seminar nicht leisten kann:\n\nKeine Auffrischung der Statistikvorlesungen\nKein “Schritt-für-Schritt Kochbuch” für die Analyse der Masterarbeit\n\n\nMasterarbeit bleibt eine individuelle Leistung, und es gibt keine One-Size-Fits all Lösung. Das Seminar soll helfen die Grundlagen aufzufrischen die ihr für eine erfolgreiche Datenaufbereitung und Auswertung braucht."
+  },
+  {
+    "objectID": "EH_1.html#leistungsbeurteilung",
+    "href": "EH_1.html#leistungsbeurteilung",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Leistungsbeurteilung",
+    "text": "Leistungsbeurteilung\n\nMitarbeit: 14 Punkte\nRegelmässige Hausübungen: 7x, gesamt 40 Punkte\nAbschlussprojekt: 46 Punkte\n–&gt; Total 100 Punkte\nGenauere Informationen zum Leistungsnachweis hier: Leistungsnachweis Website\n–&gt; Update im Laufe des Semesters\nKontinuierliche Arbeit während dem Semester!\nAufwand: 5ECTS für erfolgreichen Abschluss des Seminars -&gt; +- 9h pro Woche\n\nECTS &lt;- 25 \n\nWochen_semester &lt;- 14\n\naufwand_semester &lt;- 5*ECTS\n\naufwand_pro_woche &lt;- mean(aufwand_semester/Wochen_semester)\n\naufwand_pro_woche\n\n[1] 8.928571"
+  },
+  {
+    "objectID": "EH_1.html#leistungsnachweis-mitarbeit-14-punkte",
+    "href": "EH_1.html#leistungsnachweis-mitarbeit-14-punkte",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Leistungsnachweis: Mitarbeit (14 Punkte)",
+    "text": "Leistungsnachweis: Mitarbeit (14 Punkte)\n… kann unterschiedlich ausfallen zum Beispiel:\n\nWortmeldungen im Plenum\nAktive Teilnahme an den Hands On Sessions\nBeteiligung an Online-Foren & Error Hunt\n\nPunktevergabe:\n\n7 Punkte durch LV-Leitung\n7 Punkte durch Selbstevaluation"
+  },
+  {
+    "objectID": "EH_1.html#leistungsnachweis-hausübungen-40-punkte",
+    "href": "EH_1.html#leistungsnachweis-hausübungen-40-punkte",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Leistungsnachweis: Hausübungen (40 Punkte)",
+    "text": "Leistungsnachweis: Hausübungen (40 Punkte)\n\n7 Hausübungen - 4 oder 8 Punkte pro Hausübung\nBewertungsrelevant: Auseinandersetzung mit dem Stoff/den aufgetragenen Aufgaben.\nKorrektheit zweitrangig!\n\n\nBei Problemen die ihr nicht lösen könnt und keine Ressourcen findet, könnt ihr euch auch ans Forum wenden und eure Frage posten."
+  },
+  {
+    "objectID": "EH_1.html#leistungsnachweis-abschlussprojekt-46-punkte",
+    "href": "EH_1.html#leistungsnachweis-abschlussprojekt-46-punkte",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Leistungsnachweis: Abschlussprojekt (46 Punkte)",
+    "text": "Leistungsnachweis: Abschlussprojekt (46 Punkte)\n\nVorgegebenes Paper; Individuelle, simulierte Datensätze\nDatenanalyseplan überarbeiten / ergänzen\nKontinuierliche Führung/Überarbeitung eines Codebooks\nReproduzierbare Datenaufbereitung und Analyse mit Quarto\n\nAbgabe: Datenanalyseplan, Codebook, Datenfiles, Analyseskript(e) nach vorgegebener Ordnerstruktur\nDeadline: 11.01.26\n-&gt; Weitere Informationen im Verlauf des Semesters"
+  },
+  {
+    "objectID": "EH_1.html#fehlerkultur",
+    "href": "EH_1.html#fehlerkultur",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Fehlerkultur",
+    "text": "Fehlerkultur\n\n“Ich verliere nie. Entweder ich gewinne oder ich lerne” - Nelson Mandela\n\n“Auch Umwege erweitern unseren Horizont” - Ernst Ferstl\n\n“Wege entstehen dadurch dass wir sie gehen” - Franz Kafka\n\n“Failure is not the opposite of Success, its part of it” - Karamo Brown in Queer Eye\n\n“Den grössten Fehler, den man im Leben machen kann, ist, immer Angst zu haben einen Fehler zu machen.” - Dietrich Bonhoeffer\n\nWir sind hier um Fehler zu machen; auch bei uns ist vieles Trial-und-Error. Das darf und soll auch so sein! Bei Hausübungen sind Fehler erlaubt! Es geht ums das Mitarbeiten und sich bemühen, dann kriegt man auch mit Fehlern die Punkte Klar machen, dass man laufend dran sein muss um zu Lernen & HÜs wichtig sind Auch ich selbst weiß vieles nicht auswendig, muss googlen…"
+  },
+  {
+    "objectID": "EH_1.html#syllabus-1",
+    "href": "EH_1.html#syllabus-1",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Syllabus (1)",
+    "text": "Syllabus (1)"
+  },
+  {
+    "objectID": "EH_1.html#syllabus-2",
+    "href": "EH_1.html#syllabus-2",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Syllabus (2)",
+    "text": "Syllabus (2)"
+  },
+  {
+    "objectID": "EH_1.html#begleitende-literatur",
+    "href": "EH_1.html#begleitende-literatur",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Begleitende Literatur",
+    "text": "Begleitende Literatur\n\nWickham, H., Cetinkaya-Rundel, & Grolemund, G., &. (2023). R for Data Science. O’Reilly Media. https://r4ds.hadley.nz/\nEllis, A., & Mayer, B. (2024). Einführung in R. https://methodenlehre.github.io/einfuehrung-in-R/\nWeitere nützliche Ressourcen:\n\nTidyverse cheat sheets https://posit.co/resources/cheatsheets/\nLuhmann, M. (2020). R für Einsteiger. Beltz.\n\nKurswebsite: FAQ und weitere Informationen"
+  },
+  {
+    "objectID": "EH_1.html#unterstützungsangebote",
+    "href": "EH_1.html#unterstützungsangebote",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Unterstützungsangebote",
+    "text": "Unterstützungsangebote\n\nMit vorhanden Ressourcen arbeiten: Unterlagen aus dem Bachelor + Online-Ressourcen (auch LLMs)\nPeer Pairing für Präsenzeinheiten und Hausübungen\nOnline-Forum für Peer-to-Peer und Peer-to-Teacher Fragen; Mitarbeitspunkte für Code-Error-Hunt\nSprechstunde für «R Troubles» mit Lars –&gt; vor/nach/während den Einheiten + bei Bedarf\nErhebung & Besprechung der «Muddiest Points»\nMusterlösungen zu Übungen werden blockweise im Ebook ergänzt"
+  },
+  {
+    "objectID": "EH_1.html#bedarfsanalyse",
+    "href": "EH_1.html#bedarfsanalyse",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Bedarfsanalyse",
+    "text": "Bedarfsanalyse\nBitte reflektiere das im Bachelor erworbene Wissen und überlege wo Aufholbedarf im Bezug auf die Datenaufbereitung und -analyse mit R besteht. Du kannst die zentralen Unterlagen des Bachelor-Studiums (z.B. zu den Statistikvorlesungen) im Ilias Kurs “Masterarbeit Psychologie” einsehen.\nAnonyme Umfrage um\n\nPräferenz für das Peer-Pairing zu erfragen\nVorkenntnisse zu erfassen\nBedarf an R-Unterstützung zu erfassen\n\nUmfrage in ILIAS, Deadline Sonntag 21.09., 23:55\n\nFragen zu Peer-Feedback (ob in von uns zugeteilten Gruppen oder ob präferenz für von uns zugteilten gruppen)"
+  },
+  {
+    "objectID": "EH_1.html#anwesenheit-prüfen-kennenlernen",
+    "href": "EH_1.html#anwesenheit-prüfen-kennenlernen",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Anwesenheit prüfen / Kennenlernen",
+    "text": "Anwesenheit prüfen / Kennenlernen\n\nkurz Namen sagen und wo im Master (z.B. schon an Masterarbeit)\nfalls Zeit: Lebende Statistik, z.B. wie sehr Panik vor R/Datenanalyse (0 - 10), wie viele Kaffee heute schon getrunken"
+  },
+  {
+    "objectID": "EH_1.html#warum-r",
+    "href": "EH_1.html#warum-r",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Warum R?",
+    "text": "Warum R?\n\nEs gibt viele Gründe die für R sprechen:\n\nR kann mehr\nR ist aktuell\nR ist ansprechbar\nR schläft nicht\nR ist nachgefragt\nR ist Open Source & somit kostenlos\n\nQuelle: Luhmann, 2019.\n\n\n\nR bietet viele funktionen die in programmen nicht vorhanden ist\nR wird auch ständig weiterentwicklet, auch mit funktionen die erst jahre später in andere programme übernommmen werdne\nR die programmierer einzelner packages sind oft erreichbar und antworten auch auf fragen usw.\nR R nutzer auf der ganzen welt, auch in sozialen medien unterwegs (z.B auch R-Ladies https://rladies.org/about-us/mission/)\nR ist nachgefragt, eröffnet jobmöglichkeiten in und ausserhalb der wissenschaft\n\nR erhöhrt auch die transparenz!! –&gt; Open science block nächste woche"
+  },
+  {
+    "objectID": "EH_1.html#jetzt-hands-on",
+    "href": "EH_1.html#jetzt-hands-on",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Jetzt: Hands On!",
+    "text": "Jetzt: Hands On!\nÜbungen auf der Website!\n\nIn eigenem Tempo arbeiten, nicht stressen lassen!\nHelft euren Sitznachbar:innen\nMeldet euch bei uns!\nFür die sehr schnellen Personen —&gt; Bedarfsanalyse auf ILIAS.\n\n\nMit Block anfangen; Lars und ich gehen rum, und beantworten fragen. Wenn ihr nicht fertig werdet ist das kein Problem."
+  },
+  {
+    "objectID": "EH_1.html#heute-haben-wir",
+    "href": "EH_1.html#heute-haben-wir",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Heute haben wir…",
+    "text": "Heute haben wir…\n\nR bzw. RStudio und wichtige Pakte darin installiert\nUns mit der Oberfläche von R-Studio bekannt gemacht\nErste Operationen in R ausgeführt:\n\nEinfache Rechnungen\nErste Zuweisungen mit &lt;-\nVektoren erstellt\nErste Funktionen aufgerufen ( z.b. sum()"
+  },
+  {
+    "objectID": "EH_1.html#methodenberatung",
+    "href": "EH_1.html#methodenberatung",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Methodenberatung",
+    "text": "Methodenberatung\nMethodenberatung"
+  },
+  {
+    "objectID": "EH_1.html#bis-nächste-woche",
+    "href": "EH_1.html#bis-nächste-woche",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 1",
+    "section": "Bis nächste Woche!",
+    "text": "Bis nächste Woche!\n\nBedarfsanalyse auf ILIAS bis Sonntag ausfüllen!\nANONYM\n\nILIAS - Sitzung 1"
+  },
+  {
+    "objectID": "1_presentation.html#beispielhafte-chunks-output",
+    "href": "1_presentation.html#beispielhafte-chunks-output",
+    "title": "ryouready.github.io",
+    "section": "Beispielhafte Chunks & Output",
+    "text": "Beispielhafte Chunks & Output\n\n\n\nprint(\"Hello world!\")\n\n[1] \"Hello world!\"\n\n\n\n\n2+2\n\n[1] 4"
+  },
+  {
+    "objectID": "1_presentation.html#beispielhafte-formatierung",
+    "href": "1_presentation.html#beispielhafte-formatierung",
+    "title": "ryouready.github.io",
+    "section": "Beispielhafte Formatierung",
+    "text": "Beispielhafte Formatierung\nDiese Präsentation verwendet Reveal.js in Quarto\n\n\n\n\n\n\nHinweis\n\n\nAuf den Folien sind erst einmal nur Beispiele zu sehen, wie man mit Quarto Präsentationen einfach Code einbinden und zeigen kann."
+  },
+  {
+    "objectID": "1_presentation.html#beispielhafter-datensatz",
+    "href": "1_presentation.html#beispielhafter-datensatz",
+    "title": "ryouready.github.io",
+    "section": "Beispielhafter Datensatz",
+    "text": "Beispielhafter Datensatz\n\nhead(mtcars)\n\n                   mpg cyl disp  hp drat    wt  qsec vs am gear carb\nMazda RX4         21.0   6  160 110 3.90 2.620 16.46  0  1    4    4\nMazda RX4 Wag     21.0   6  160 110 3.90 2.875 17.02  0  1    4    4\nDatsun 710        22.8   4  108  93 3.85 2.320 18.61  1  1    4    1\nHornet 4 Drive    21.4   6  258 110 3.08 3.215 19.44  1  0    3    1\nHornet Sportabout 18.7   8  360 175 3.15 3.440 17.02  0  0    3    2\nValiant           18.1   6  225 105 2.76 3.460 20.22  1  0    3    1"
+  },
+  {
+    "objectID": "1_presentation.html#beispielhafter-ggplot-code-und-plot",
+    "href": "1_presentation.html#beispielhafter-ggplot-code-und-plot",
+    "title": "ryouready.github.io",
+    "section": "Beispielhafter ggplot-code und plot",
+    "text": "Beispielhafter ggplot-code und plot\n\nggplot(data = mtcars, aes(x = hp, y = mpg, color = factor(cyl))) +\n  geom_point(size = 3) +\n  labs(\n    title = \"PS vs. Verbrauch\",\n    x = \"Horsepower (hp)\",\n    y = \"Miles per Gallon (mpg)\",\n    color = \"Zylinder\"\n  ) +\n  theme_minimal()"
+  },
+  {
+    "objectID": "1_presentation.html#beispielhafter-ggplot-code-und-plot-output",
+    "href": "1_presentation.html#beispielhafter-ggplot-code-und-plot-output",
+    "title": "ryouready.github.io",
+    "section": "Beispielhafter ggplot-code und plot",
+    "text": "Beispielhafter ggplot-code und plot"
+  },
+  {
+    "objectID": "EH_2.html#r-u-ready-reprodzierbare-datenaufbereitung-und--analyse-mit-r",
+    "href": "EH_2.html#r-u-ready-reprodzierbare-datenaufbereitung-und--analyse-mit-r",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "R u Ready? Reprodzierbare Datenaufbereitung und -analyse mit R",
+    "text": "R u Ready? Reprodzierbare Datenaufbereitung und -analyse mit R\nHS 2025 LV-Leitung: Dr. Sandra Grinschgl / MSc. Aaron Friedli Tutor: BSc. Lars Schilling2. Einheit, 24.09.2025"
+  },
+  {
+    "objectID": "EH_2.html#semesterplan",
+    "href": "EH_2.html#semesterplan",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Semesterplan",
+    "text": "Semesterplan\n\n\nGibt es Fragen, die sich nach letzter Woche aufgetan haben?"
+  },
+  {
+    "objectID": "EH_2.html#ergebnisse-der-bedarfsanalyse-1",
+    "href": "EH_2.html#ergebnisse-der-bedarfsanalyse-1",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Ergebnisse der Bedarfsanalyse (1)",
+    "text": "Ergebnisse der Bedarfsanalyse (1)\n10:15 (N = 24)\nWie würdest du aktuell deine R-Kenntnisse einschätzen?\n\n\n\n\n\n16:15 (N = 23)\nWie würdest du aktuell deine R-Kenntnisse einschätzen?"
+  },
+  {
+    "objectID": "EH_2.html#ergebnisse-der-bedarfsanalyse-2",
+    "href": "EH_2.html#ergebnisse-der-bedarfsanalyse-2",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Ergebnisse der Bedarfsanalyse (2)",
+    "text": "Ergebnisse der Bedarfsanalyse (2)\nWie oft hast du R schon verwendet?\n10:15"
+  },
+  {
+    "objectID": "EH_2.html#ergebnisse-der-bedarfsanalyse-3",
+    "href": "EH_2.html#ergebnisse-der-bedarfsanalyse-3",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Ergebnisse der Bedarfsanalyse (3)",
+    "text": "Ergebnisse der Bedarfsanalyse (3)\nIn welchen Lehrveranstaltungen hast du R verwendet?\n\nStatistik\nDiagnostik\nNeuowissenschaften/Computerlab\nBachelorarbeit/Masterarbeit\nWeitere Kurse und Seminar ( z.B. Datensatzaufbereitung in R)"
+  },
+  {
+    "objectID": "EH_2.html#ergebnisse-der-bedarfsanalyse-4",
+    "href": "EH_2.html#ergebnisse-der-bedarfsanalyse-4",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Ergebnisse der Bedarfsanalyse (4)",
+    "text": "Ergebnisse der Bedarfsanalyse (4)\nHast du R auch außerhalb von Lehrveranstaltungen verwendet?\n10:15"
+  },
+  {
+    "objectID": "EH_2.html#ergebnisse-der-bedarfsanalyse-5",
+    "href": "EH_2.html#ergebnisse-der-bedarfsanalyse-5",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Ergebnisse der Bedarfsanalyse (5)",
+    "text": "Ergebnisse der Bedarfsanalyse (5)\nWelche R-Pakete hast du bereits verwendet?\n\nFast alle von euch haben schon mit dem Tidyverse gearbeitet\n\n\nFast alle nur mit tidyverse, fast niemand mit BaseR und fast niemand mit einem anderen Package."
+  },
+  {
+    "objectID": "EH_2.html#ergebnisse-der-bedarfsanalyse-6",
+    "href": "EH_2.html#ergebnisse-der-bedarfsanalyse-6",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Ergebnisse der Bedarfsanalyse (6)",
+    "text": "Ergebnisse der Bedarfsanalyse (6)\nWie unsicher fühlst du dich im Umgang mit den folgenden Themen?\n10:15"
+  },
+  {
+    "objectID": "EH_2.html#ergebnisse-der-bedarfsanalyse-7",
+    "href": "EH_2.html#ergebnisse-der-bedarfsanalyse-7",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Ergebnisse der Bedarfsanalyse (7)",
+    "text": "Ergebnisse der Bedarfsanalyse (7)\nWelche weiteren Schritte bereiten dir Schwierigkeiten in R?\n\nAllgemeine Unsicherheit / Überforderung\nGrundlegendes, Syntax & Fehleranalyse (Code funktioniert nicht)\nPakete und Funktionen (Wann brauche ich was?)\nCodes schreiben und verstehen (Eigenständig coden, nachvollziehen von generiertem Code)\nDatenverständnis & -aufbereitung\nStatistische Analysen & Anwendungen\nGanzheitliches Verständnis von Code\n\n\nUnsicherheit welche Pakete für welche Analysen\nOft nur codes kopieren, mühe logik oder reihenfolge nachzuvollziehen\nUnsicherheit welche schritte nötig sind, (umwandenlen und strukturieren von daten)\nAuswahl passender Tests\n–&gt; Allgemeine Überforderung, stark auf extrene Hilfe angewiesen."
+  },
+  {
+    "objectID": "EH_2.html#ergebnisse-der-bedarfsanalyse-8",
+    "href": "EH_2.html#ergebnisse-der-bedarfsanalyse-8",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Ergebnisse der Bedarfsanalyse (8)",
+    "text": "Ergebnisse der Bedarfsanalyse (8)\nBei welchen Schritten in R fühlst du dich sicher, wenn du auch daran denkst, die im Bachelor erworbenen Unterlagen zu Hilfe zu ziehen?\n\nBasics (z.B. Vektoren zuweisen)\nDatenimport & -aufbereitung\nDeskriptive & einfache Analysen\nVisualisierung mit ggplot2\nFortgeschrittene Analysen mit bereits vorbereiteten Daten\nAllgemeine Unsicherheit ➡️ mit Unterlagen, KI, oder Schritt für Schritt Anweisungen funktioniert bereits einiges\n\n\nWir werden versuchen unser “Programm” auf eure Needs abzustimmen - bitte gebt uns laufend Feedback dazu."
+  },
+  {
+    "objectID": "EH_2.html#ergebnisse-der-bedarfsanalyse-9",
+    "href": "EH_2.html#ergebnisse-der-bedarfsanalyse-9",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Ergebnisse der Bedarfsanalyse (9)",
+    "text": "Ergebnisse der Bedarfsanalyse (9)\nWas würdest du gerne in diesem Methodenseminar lernen?\n\nGrundlagen und Verständnis festigen ➡️ Sicherheit gewinnen\nDatenaufbereitung\nStatistische Analysen und Interpretation\n\nWann brauche ich welche Tests ➡️ Leider kann keine grundlegende Statistik-Auffrischung angeboten werden.\nAber: Strukturiertes Vorgehen z.B. Datenanalyseplan.\n\nVisualisierung und Dokumentation\nEigenständiger werden & Problemlöseskills\nMotivation und Sicherheit!\n\nUnser Motto: Üben, üben, üben"
+  },
+  {
+    "objectID": "EH_2.html#ergebnisse-der-bedarfsanalyse-10",
+    "href": "EH_2.html#ergebnisse-der-bedarfsanalyse-10",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Ergebnisse der Bedarfsanalyse (10)",
+    "text": "Ergebnisse der Bedarfsanalyse (10)\nWelche Unterstützung um die Datenaufbereitung und -analyse in R würdest du dir innerhalb dieses Seminars wünschen?\n\noffene Fehlerkultur\nSchritt-für-Schritt-Anleitungen im individuellen Tempo → Musterlösungen\nÜben und Praxis ➡️ Hands-on!\n\n\n\nNiederschwellige Hilfe ➡️ Tutor, Sprechstunden\n\n\n\nVerknüpfung von „Warum“ und „Wie“ ➡️ konzeptionelle und praktische Kompetenz"
+  },
+  {
+    "objectID": "EH_2.html#ergebnisse-der-bedarfsanalyse-11",
+    "href": "EH_2.html#ergebnisse-der-bedarfsanalyse-11",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Ergebnisse der Bedarfsanalyse (11)",
+    "text": "Ergebnisse der Bedarfsanalyse (11)\nWelche Unterstützung um die Datenaufbereitung und -analyse in R würdest du dir außerhalb dieses Seminars (z.B. im Studium allgemein) wünschen?\n\nAnlaufstellen & Beratung ➡️ Methodenberatung, Foren für Mitstudierende\nSkripte & Materialien ➡️ Frei Zugängliche Skripte, Templates, Cheat-Sheets\nKurse & Übungsangebote ➡️ Zusätzliche Kurse für Auffrischung und Übung\nPraxis & Anwendung im Studium ➡️ R stärker in VLs und Seminare & Projekte einbinden um Routine zu entwicklen\nTheorie-Verknüpfung & Verständnis\n\nDiese Frage stellen wir, weil wir bemüht sind etwas zu verbessern. 1ster Schritt: Methodenberatung"
+  },
+  {
+    "objectID": "EH_2.html#peer-pairing",
+    "href": "EH_2.html#peer-pairing",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Peer-Pairing:",
+    "text": "Peer-Pairing:\n10:15\n\n16:15"
+  },
+  {
+    "objectID": "EH_2.html#peer-pairing-1",
+    "href": "EH_2.html#peer-pairing-1",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Peer-Pairing:",
+    "text": "Peer-Pairing:\n\nVorgehen: Melden bis Sonntag 28.09 (ILIAS Forum, siehe EH2) mit Namen des 2er Teams\nAnsonsten: Zufällige Zuteilung am Montag - Kennenlernen in der nächsten Einheit\n\n\n\n\n\n\n\n\nIllustration von Freepik"
+  },
+  {
+    "objectID": "EH_2.html#open-science---menti",
+    "href": "EH_2.html#open-science---menti",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Open Science - Menti",
+    "text": "Open Science - Menti\n\n\nWas verbindest du mit Open Science?\nMenti nach Vormittagseinheit zurücksetzen"
+  },
+  {
+    "objectID": "EH_2.html#replikationskrise",
+    "href": "EH_2.html#replikationskrise",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Replikationskrise",
+    "text": "Replikationskrise\n\nAusgangspunkt: 9 Studien, die darauf hinweisen, dass Personen «in die Zukunft sehen können» (Bem , 2011)\nEtablierte psychologische Messmethoden (z.B. Priming)\nEin Ergebnis: Primes, die nach Antwort präsentiert werden, beeinflussen Antwortzeiten\nStarke Kritik, v.a. was Methodik betrifft; gerade kontroverse,„unwahrscheinliche“ Hypothesen sollten durch strikte, konfirmatorische Analysen überprüfen (Francis, 2012; LeBel & Peters, 2011; Wagenmakers et al., 2011)\nDiverse gescheiterte Replikationsversuche (Galak et al., 2012; Ritchie et al., 2012; Robinson, 2011)\n\n\nWeitere studien von bem unter anderem: erotic image detection –&gt; teilnehmende errieten die position von erotischen bildern signifikant öfter hinter einem vorhang - bevor die bilder überhaupt positioniert wurden."
+  },
+  {
+    "objectID": "EH_2.html#replizierbarkeit-und-reproduzierbarkeit",
+    "href": "EH_2.html#replizierbarkeit-und-reproduzierbarkeit",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Replizierbarkeit und Reproduzierbarkeit",
+    "text": "Replizierbarkeit und Reproduzierbarkeit\n\nSchönbrodt, 2023\n\nAuf deutsch: Reproduzierbarkeit = gleiche Daten, gleiche Analyse, gleiche Ergebnisse.\nReplizierbarkeit = neue Daten, gleiche Methode, ähnliche Ergebnisse.\n\n–&gt; Aufgrund von Bem haben sich Forschende das Ziel gesetzt die Replizierbarkeit von etablierten findings zu prüfen."
+  },
+  {
+    "objectID": "EH_2.html#open-science-collaboration-2015",
+    "href": "EH_2.html#open-science-collaboration-2015",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Open Science Collaboration (2015)",
+    "text": "Open Science Collaboration (2015)\nGemeinsames Projekt von 270 Autor:innen, mit dem Ziel 100 Studien aus drei verschiedenen Journals zu replizieren."
+  },
+  {
+    "objectID": "EH_2.html#open-science-collaboration-2015-1",
+    "href": "EH_2.html#open-science-collaboration-2015-1",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Open Science Collaboration (2015)",
+    "text": "Open Science Collaboration (2015)\n\n\nSignifikante Ergebnisse in den Original-Studien: 97%\n\nWie viele % der Effekte liessen sich replizieren - was glaubt ihr?"
+  },
+  {
+    "objectID": "EH_2.html#open-science-collaboration-2015-2",
+    "href": "EH_2.html#open-science-collaboration-2015-2",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Open Science Collaboration (2015)",
+    "text": "Open Science Collaboration (2015)\n\n\nSignifikante Ergebnisse in den Replikationsstudien: 36%\nDie Effektgrössen in den Replikationsstudien sind im Schnitt halb so gross!"
+  },
+  {
+    "objectID": "EH_2.html#replikationskrise-in-anderen-fächern",
+    "href": "EH_2.html#replikationskrise-in-anderen-fächern",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Replikationskrise in anderen Fächern",
+    "text": "Replikationskrise in anderen Fächern\n\nSchönbrodt, 2023; Hofer, 2024*Bei Wirtschaft geht es um Reproduzierbarkeit.\nSiehe auch: https://www.youtube.com/watch?v=FpCrY7x5nEE&ab_channel=TED-Ed"
+  },
+  {
+    "objectID": "EH_2.html#warum",
+    "href": "EH_2.html#warum",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Warum?",
+    "text": "Warum?\n\nSammlung im Plenum von möglichen Gründen"
+  },
+  {
+    "objectID": "EH_2.html#gründe-für-die-replikationskrise",
+    "href": "EH_2.html#gründe-für-die-replikationskrise",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Gründe für die Replikationskrise:",
+    "text": "Gründe für die Replikationskrise:\n\nAkademisches Umfeld:\n\nQuantität &gt; Qualität\n“publish or perish”\n\nQuestionable Research Practices:\n\nSelektive Berichterstattung\np-hacking\n\nBiases:\n\nConfirmation Bias\nPublication Bias\n\n\n“If you torture data long enough, it will confess to anything” - Ronald Coase\n(Spielt natürlich auch eine Rolle: Versuchsmethoden und Zufallsbefunde)"
+  },
+  {
+    "objectID": "EH_2.html#gründe-für-die-replikationskrise-1",
+    "href": "EH_2.html#gründe-für-die-replikationskrise-1",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Gründe für die Replikationskrise:",
+    "text": "Gründe für die Replikationskrise:\nChambers, C. (2017). The seven deadly sins of psychology: A manifesto for reforming the culture of scientific practice. Princeton University Press. https://doi.org/10.1515/9781400884940"
+  },
+  {
+    "objectID": "EH_2.html#aktuelle-fälle",
+    "href": "EH_2.html#aktuelle-fälle",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Aktuelle Fälle:",
+    "text": "Aktuelle Fälle:\nTop German psychologist fabricated data, investigation finds\n\nDer bekannte Psychologe Hans-Ulrich Wittchen soll in einer millionenschweren Studie Daten gefälscht und Whistleblower unter Druck gesetzt haben, was nun zu strafrechtlichen Ermittlungen und möglichen Sanktionen führt.\n\n“Here’s the Unsealed Report Showing How Harvard Concluded That a Dishonesty Expert Committed Misconduct”\n\nDie Forscherin Francesca Gino wird beschuldigt, Daten in mehreren Studien manipuliert zu haben, bestreitet jedoch die Vorwürfe und führt sie auf mögliche Fehler oder andere Personen zurück.\n\nA Scandal in Alzheimer’s Research Shows How Science Can Go Astray\n\nEine Untersuchung legt nahe, dass eine einflussreicher Alzheimer-Studie von 2006 manipulierte Bilder enthielt, was Zweifel an jahrelanger Forschung und der wissenschaftlichen Integrität aufwirft.\n\n\nAktueller Stand:\nHans-Ulrich Wittchen Er ist wegen Datenfälschung bei einer großen Studie angeklagt; sein Vertrag an der LMU wurde suspendiert, weitere Ermittlungen laufen.\nFrancesca Gino Harvard entließ sie 2025 und entzog ihr die Tenure wegen nachgewiesenem Forschungs­fehlverhalten; ihre Klagen gegen Harvard laufen, Teile davon wurden bereits abgewiesen.\nSylvain Lesné Sein zentraler Alzheimer-Artikel von 2006 wurde 2024 aus Nature zurückgezogen; er trat 2025 von seiner Professur in Minnesota zurück, Untersuchungen dauern an. Seine Forschung beinflusste grosse teile des Forschungsbereiches und ist eines der meistzitierten Papers die bis heute retracted wurden."
+  },
+  {
+    "objectID": "EH_2.html#retraction-watch-leaderboard",
+    "href": "EH_2.html#retraction-watch-leaderboard",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Retraction Watch Leaderboard",
+    "text": "Retraction Watch Leaderboard\n\n\nAn Stelle 8 ist Diederik Stapel - bekannter Fall aus der Psychologie"
+  },
+  {
+    "objectID": "EH_2.html#the-end-is-near",
+    "href": "EH_2.html#the-end-is-near",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "THE END IS NEAR",
+    "text": "THE END IS NEAR\n\nBild generiert von ChatGPT Image Generator\nOder?\n„Science is never perfect, but what this crisis has shown is that there is never a shortage of scientists who will keep trying to make it better.” (Maki Naro)"
+  },
+  {
+    "objectID": "EH_2.html#lösungsansätze---open-science",
+    "href": "EH_2.html#lösungsansätze---open-science",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Lösungsansätze - Open Science",
+    "text": "Lösungsansätze - Open Science\n\nAuch wichtig: Registered Reports und Replikationsstudien; Open Acces Publikationen, Open Peer Review, Educational Practices"
+  },
+  {
+    "objectID": "EH_2.html#lösungsansätze---open-science-2",
+    "href": "EH_2.html#lösungsansätze---open-science-2",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Lösungsansätze - Open Science (2)",
+    "text": "Lösungsansätze - Open Science (2)\n\nPräregistrierung\n\nFestlegung der zentralen Aspekte der Studie (z.B. Hypothesen, Stichprobe, Analyse) vor ihrer Umsetzung (d.h. vor der Datenerhebung)\n\nAuch möglich vor der Datenanalyse —&gt; Datenanalyseplan\n\nPräregistrierung wird veröffentlicht, erhält einen Zeitstempel und ist schreibgeschützt\n\nwww.osf.io\nVerschiedene Templates\n\n\nPreprints:\n\nVersion des Manuskripts vor Peer-Review\nPostprint: Version des Manuskripts nach Peer Review."
+  },
+  {
+    "objectID": "EH_2.html#lösungsansätze---open-science-2-1",
+    "href": "EH_2.html#lösungsansätze---open-science-2-1",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Lösungsansätze - Open Science (2)",
+    "text": "Lösungsansätze - Open Science (2)\nOpen Material, Data & Code\n\nOpen Material: Untersuchungsmaterial (Fragebogen, Stimuli, usw.) wird online zur Verfügung gestellt\nOpen Data: Daten werden in anonymisierter Form veröffentlicht\nOpen Code: Reproduzierbare Analyseskripte werden zur Verfügung gestellt\n\nBadges: \n\nErlaubt Ergebnisse zu überprüfen; erhöht die Glaubwürdigkeit an Forschung; stärkt die gefundenen Ergebnisse"
+  },
+  {
+    "objectID": "EH_2.html#open-science-gute-wissenschaftliche-praxis",
+    "href": "EH_2.html#open-science-gute-wissenschaftliche-praxis",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Open Science = Gute wissenschaftliche Praxis",
+    "text": "Open Science = Gute wissenschaftliche Praxis\n\nStefan et al. (2023)"
+  },
+  {
+    "objectID": "EH_2.html#weitere-ressourcen",
+    "href": "EH_2.html#weitere-ressourcen",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Weitere Ressourcen:",
+    "text": "Weitere Ressourcen:\n\nPennington, C. R. (2023). A student’s guide to open science: Using the replication crisis to reform psychology. McGraw Hill​.\nOpen Science an der Universität Bern: https://www.ub.unibe.ch/service/open_science/index_ger.html ​\nBlogs über aktuelle Themen: https://datacolada.org\nJournal Club: https://reproducibilitea.org\nComic: https://thenib.com/repeat-after-me/?utm_campaign=web-share-links&utm_medium=social&utm_source=link\nLehrveranstaltungen der Abteilung „Psychologie der Digitalisierung“- Meta-Wissenschaft https://www.dig.psy.unibe.ch/studium/lehrveranstaltungen/index_ger.html\n\n„Spellchecker“ für Statistik https://michelenuijten.shinyapps.io/statcheck-web/\n\nFreie Plätze in Ian’s Seminar - Teilnahme noch möglich!"
+  },
+  {
+    "objectID": "EH_2.html#was-bedeutet-dies-nun-für-uns",
+    "href": "EH_2.html#was-bedeutet-dies-nun-für-uns",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Was bedeutet dies nun für uns?",
+    "text": "Was bedeutet dies nun für uns?\n\nFesthalten der Analysen in Datenanalyseplänen\nAnalyse reproduzierbar gestalten ➡️ durch Kommentierung von Code, Codebook etc.\nIdealerweise: auch bei der Masterarbeit Präregistrierung oder Datenanalyseplan etc. (Unterstützung dafür bietet auch die Methodensprechstunde bei Aaron)\nRegt eure Betreuer:innen an!"
+  },
+  {
+    "objectID": "EH_2.html#präregistrierungdatenanalysepläne",
+    "href": "EH_2.html#präregistrierungdatenanalysepläne",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Präregistrierung/Datenanalysepläne",
+    "text": "Präregistrierung/Datenanalysepläne\n\nVorteile, u.a.:\n\nkann davor festhalten, was ich erwarte und wie ich es analysiere = erhöhte Transparenz\nverringerte Möglichkeiten von p-hacking, HARKing, und Biases Stichprobengröße wird festgeschrieben und muss begründet werden\nUnterscheidung konfirmatorischer und explorativer Forschung\n\nkonfirmatorisch: Eine vorab festgelegte Theorie & Hypothese testen\nexplorativ: neue Zusammenhänge/Unterschiede entdecken; keine Annahmen vorab\n\n\n“Its a plan, not a prison” (Pennington, 2023)"
+  },
+  {
+    "objectID": "EH_2.html#präregistrierungdatenanalysepläne-1",
+    "href": "EH_2.html#präregistrierungdatenanalysepläne-1",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Präregistrierung/Datenanalysepläne",
+    "text": "Präregistrierung/Datenanalysepläne\nNachteile?\n\n\nKeine Garantie für Qualität\nIst auch “hackable” –&gt; PARKing (Preregisitreing after Results are known)"
+  },
+  {
+    "objectID": "EH_2.html#grundlegender-artikel-grinschgl-et-al.-2020",
+    "href": "EH_2.html#grundlegender-artikel-grinschgl-et-al.-2020",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Grundlegender Artikel: Grinschgl et al. (2020)",
+    "text": "Grundlegender Artikel: Grinschgl et al. (2020)\nFrom metacognitive beliefs to strategy selection: does fake performance feedback influence cognitive offloading?\n\n3 Gruppen und mehrere Messzeitpunkte\nbetween-within Design\nHauptanalysen: ANOVAs und t-Tests\nVerschiedene AVs (z.B. cognitive offloading, Arbeitsgedächtnisfähigkeiten, Selbsteinschätzung)\nPräregistriert auf OSF https://osf.io/9hpz5\n\n\nACHTUNG: Kein optimales Beispiel, an manchen Stellen zu knapp!"
+  },
+  {
+    "objectID": "EH_2.html#datenanalyseplan",
+    "href": "EH_2.html#datenanalyseplan",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Datenanalyseplan",
+    "text": "Datenanalyseplan\n\nSecondary Data Analyses Preregistration (https://osf.io/x4gzt/)){.uri}\nBasierend auf Van den Akker et al. (2021) -&gt; siehe Paper für eine Anleitung & Youtube Video https://www.youtube.com/watch?v=fqvJx2_V3zY\nLeichte Modifikationen für unser Seminar Vorlage auf ILIAS unter «Abschlussprojekt» -&gt; ZIP-Ordner"
+  },
+  {
+    "objectID": "EH_2.html#datenanalyseplan---modifizierte-fragen",
+    "href": "EH_2.html#datenanalyseplan---modifizierte-fragen",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Datenanalyseplan - (Modifizierte) Fragen",
+    "text": "Datenanalyseplan - (Modifizierte) Fragen\n\nTitel\nKurzbeschreibung der Studie\nForschungsfragen\nHypothesen & explorative Fragestellungen\nDatenzugang\nDatenerhebung\nUnabhängige Variablen\nAbhängige Variablen\nFehlende Daten\nDatenausschluss\nVorkenntnisse zu den Daten\nStatistische Modelle\nInferenz-Kriterien\n\nDiese Fragen sind für die Analysen von Grinschgl et al, (2020) zu beantworten –&gt; erste HÜ"
+  },
+  {
+    "objectID": "EH_2.html#datenanalyseplan---aufgabenstellung",
+    "href": "EH_2.html#datenanalyseplan---aufgabenstellung",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Datenanalyseplan - Aufgabenstellung",
+    "text": "Datenanalyseplan - Aufgabenstellung\n\nDatenanalyseplan für Reproduzierung der Analysen von Grinschgl et al. (2020) erstellen (bis EH 4) ➡️4 Punkte\n\nPaper befindet sich ohne und mit Hinweisen auf ILIAS (Ordner «Abschlussprojekt» ➡️ Zip Ordner)\nAuf Deutsch oder Englisch\nNicht nur Kopie der Textteile aus dem Paper, sondern in eigene Worte fassen\nEs gibt nicht die EINE richtige Lösung\nEinfach mal probieren! Korrektheit zweitrangig!\n\nMusterlösung & Peer-Review (Zwischen EH 4-5) ➡️ 4 Punkte\nAbschlussarbeit: überarbeiteten Datenanalyseplan mit abgeben (Basis: Simulierte Daten) ➡️ Teil der 46 Punkte (Abschlussarbeit)\nFAQ anschauen, Ilias Forum für neue Fragen nutzen"
+  },
+  {
+    "objectID": "EH_2.html#fragen-wünsche-anregungen",
+    "href": "EH_2.html#fragen-wünsche-anregungen",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Fragen, Wünsche, Anregungen",
+    "text": "Fragen, Wünsche, Anregungen\n\nIllustration von svstudioart/Freepik"
+  },
+  {
+    "objectID": "EH_2.html#ankündigung-collegium-generale",
+    "href": "EH_2.html#ankündigung-collegium-generale",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Ankündigung: Collegium Generale",
+    "text": "Ankündigung: Collegium Generale"
+  },
+  {
+    "objectID": "EH_2.html#ankündigung-masterarbeit-praktikum-zu-vergeben",
+    "href": "EH_2.html#ankündigung-masterarbeit-praktikum-zu-vergeben",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Ankündigung: Masterarbeit / Praktikum zu vergeben",
+    "text": "Ankündigung: Masterarbeit / Praktikum zu vergeben\n\nReplikationsstudie von Loftus und Palmer(1974) Car Crash Experiment\nLoftus, E. F., & Palmer, J. C. (1974). Reconstruction of auto-mobile destruction: An example of the interaction between language and memory. Journal of Verbal Learning and Verbal behavior, 13, 585-589."
+  },
+  {
+    "objectID": "EH_2.html#heute-haben-wir",
+    "href": "EH_2.html#heute-haben-wir",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Heute haben wir:",
+    "text": "Heute haben wir:\n\nDen Ursprung und Gründe der Replikationskrise kennengelernt\nDas Verbessern psychologischer Forschung mittels Open Science Praktiken diskutiert\nDas Konzept der Präregistrierung und des Datenanalyseplans kennengelernt\nWeitere Hands-On Übungen zu R Basics bearbeitet"
+  },
+  {
+    "objectID": "EH_2.html#hausübungen",
+    "href": "EH_2.html#hausübungen",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Hausübungen:",
+    "text": "Hausübungen:\n\nPaper lesen (r_you_ready/Grinschgl2020/reports)\nDatenanalyseplan für Paper erstellen (auf Basis des Papers)\n\nAbgabe via ILIAS, Deadline: 08.10.2025\nWeiterleiten an Peer-Partner (EH4)\n\nUnterstützende Dokumente (Ordner: r_you_ready/Unterstützende_Dokumente/Datenanalyseplan):\n\nArtikel Van den Akker et al. (2021)\nForum & Peer Pairing (ab EH3)\nFAQ\nFragen zur nächsten Einheit mitbringen\n\nHands-On Übungen (Musterlösungen nächste Woche)\nPeer-Pairings melden, Deadline 28.09.2025\n\n\nOder direkt jetzt bei mir oder lars melden!"
+  },
+  {
+    "objectID": "EH_2.html#referenzen",
+    "href": "EH_2.html#referenzen",
+    "title": "R u Ready? HS2025 | Psychologie der Digitalisierung - Einheit 2",
+    "section": "Referenzen:",
+    "text": "Referenzen:\nBem, D. J. (2011). Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect. Journal of Personality and Social Psychology, 100, 407–425. https://doi.org/10.1037/a0021524\nFrancis, G. (2012). Too good to be true: Publication bias in two prominent studies from experimental psychology. Psychonomic Bulletin & Review, 19, 151–156. https://doi.org/10.3758/s13423-012-0227-9\nGalak, J., LeBoeuf, R. A., Nelson, L. D., & Simmons, J. P. (2012). Correcting the past: Failures to replicate psi. Journal of Personality and Social Psychology, 103(6), 933–948. http://dx.doi.org/10.1037/a0029709\nGrinschgl, S., Meyerhoff, H. S., Schwan, S., & Papenmeier, F. (2021). From metacognitive beliefs to strategy selection: Does fake performance feedback influence cognitive offloading? Psychological Research, 85, 2654–2666. https://doi.org/10.1007/s00426-020-01435-9\nHofer, G. (2024, April 23). Open Science [Course presentation]. University of Graz.\nLeBel, E. P., & Peters, K. R. (2011). Fearing the future of empirical psychology: Bem’s (2011) evidence of psi as a case study of deficiencies in modal research practice. Review of General Psychology, 15(4), 371–379. https://doi.org/10.1037/a0025172\nOpen Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), Article aac4716. https://doi.org/10.1126/science.aac4716\nPennington, C. R. (2023). A student’s guide to open science: Using the replication crisis to reform psychology. McGraw Hill."
   },
   {
     "objectID": "index.html",
@@ -12,5 +1090,411 @@
     "title": "ryouready.github.io",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "codebook.html",
+    "href": "codebook.html",
+    "title": "2 Codebook",
+    "section": "",
+    "text": "Fragen zum Codebook"
+  },
+  {
+    "objectID": "codebook.html#sollen-im-codebook-alle-variablen-eines-datensatzes-beschrieben-werden-oder-nur-diejenigen-welche-auch-im-rahmen-der-analyse-verwendet-werden",
+    "href": "codebook.html#sollen-im-codebook-alle-variablen-eines-datensatzes-beschrieben-werden-oder-nur-diejenigen-welche-auch-im-rahmen-der-analyse-verwendet-werden",
+    "title": "2 Codebook",
+    "section": "Sollen im Codebook alle Variablen eines Datensatzes beschrieben werden oder nur diejenigen, welche auch im Rahmen der Analyse verwendet werden?",
+    "text": "Sollen im Codebook alle Variablen eines Datensatzes beschrieben werden oder nur diejenigen, welche auch im Rahmen der Analyse verwendet werden?\nAls Grundsatz gilt: Das Codebook soll fremden Wissenschaftler:innen aus der Psychologie dabei helfen ohne weiteren Aufwand eure Arbeit zu beurteilen und ggf. zu replizieren. Für eine Replikation würde eine genaue Beschreibung der von euch in der Analyse verwendeten Variablen ausreichend. Eine allgemeine Beurteilung ist aber erst dann vollständig möglich, wenn auch alle anderen Variablen umfangreich beschrieben sind. Deswegen müssen im Codebook alle Variablen eures Datensatzes beschrieben werden, auch jene, die in der Analyse nicht weiter Beachtung finden."
+  },
+  {
+    "objectID": "codebook.html#sollten-unter-questionnaire-wirklich-nur-fragebögen-aufgelistet-werden-oder-kann-man-hier-auch-die-namen-möglicher-kognitiver-tests-angeben",
+    "href": "codebook.html#sollten-unter-questionnaire-wirklich-nur-fragebögen-aufgelistet-werden-oder-kann-man-hier-auch-die-namen-möglicher-kognitiver-tests-angeben",
+    "title": "2 Codebook",
+    "section": "Sollten unter „questionnaire“ wirklich nur Fragebögen aufgelistet werden oder kann man hier auch die Namen möglicher kognitiver Tests angeben?",
+    "text": "Sollten unter „questionnaire“ wirklich nur Fragebögen aufgelistet werden oder kann man hier auch die Namen möglicher kognitiver Tests angeben?\nBei Angaben im Codebook sollte immer gelten: Sie erklären für unbeteiligte Wissenschaftler:innen aus der Psychologie mehr als das sie Verwirrung stiften. Unter „questionnaire“ auch die Namen von ggf. angewendeten kognitiven Tests anzugeben, unterstützt die Nachvollziehbarkeit und kann daher so gemacht werden."
+  },
+  {
+    "objectID": "codebook.html#wo-liegt-der-unterschied-zwischen-description-und-composition-of-item",
+    "href": "codebook.html#wo-liegt-der-unterschied-zwischen-description-und-composition-of-item",
+    "title": "2 Codebook",
+    "section": "Wo liegt der Unterschied zwischen „description“ und „Composition of item…“?",
+    "text": "Wo liegt der Unterschied zwischen „description“ und „Composition of item…“?\nBei „description“ geht es um eine kurze inhaltliche Beschreibung der Variable, also was für einen Zweck die Variable in der Studie einnimmt oder mit welchem Konstrukt die Variable im Zusammenhang steht. Bei „composition of item“ geht es um die mathematische Zusammensetzung der Variable (z.B. Mittelwert aus Items XYZ)."
+  },
+  {
+    "objectID": "codebook.html#wann-sind-response_labels-zu-verwenden-und-wann-nicht",
+    "href": "codebook.html#wann-sind-response_labels-zu-verwenden-und-wann-nicht",
+    "title": "2 Codebook",
+    "section": "Wann sind „response_labels“ zu verwenden und wann nicht?",
+    "text": "Wann sind „response_labels“ zu verwenden und wann nicht?\nDie Labels der Antwortmöglichkeiten direkt zu benennen ist dann wichtig, wenn diese nicht logisch erschliessbar sind. Dies ist z.B. bei einer Likert-Skala der Fall, da diese unterschiedlich streng formuliert sein kann. Selbst wenn diese im Datenanalyseplan aufgeführt werden, ist es sicherer diese auch noch mal im Codebook zu erwähnen."
+  },
+  {
+    "objectID": "codebook.html#was-ist-mit-der-spalte-dimensions-gemeint",
+    "href": "codebook.html#was-ist-mit-der-spalte-dimensions-gemeint",
+    "title": "2 Codebook",
+    "section": "Was ist mit der Spalte „dimensions“ gemeint?",
+    "text": "Was ist mit der Spalte „dimensions“ gemeint?\nUnter „dimensions“ soll das Konstrukt aufgeführt werden, welches sich hinter Items eines Fragebogens verbirgt (z.B. Item XY gehört zur dimension „Extraversion“ in einem Big 5 Fragebogen)."
+  },
+  {
+    "objectID": "codebook.html#wie-soll-man-vorgehen-wenn-zu-manchen-dimensionen-der-variable-weder-im-paper-noch-in-der-präregistrierung-genaue-angaben-zu-finden-sind",
+    "href": "codebook.html#wie-soll-man-vorgehen-wenn-zu-manchen-dimensionen-der-variable-weder-im-paper-noch-in-der-präregistrierung-genaue-angaben-zu-finden-sind",
+    "title": "2 Codebook",
+    "section": "Wie soll man vorgehen, wenn zu manchen Dimensionen der Variable weder im Paper noch in der Präregistrierung genaue Angaben zu finden sind?",
+    "text": "Wie soll man vorgehen, wenn zu manchen Dimensionen der Variable weder im Paper noch in der Präregistrierung genaue Angaben zu finden sind?\nFür den Fall, dass zu einer Angabe genaue Informationen fehlen, gibt es zwei Möglichkeiten. Zum einen kann man „reverse Engineering“ anwenden. Manche Informationen sind nirgendwo explizit angegeben, lassen sich aber beispielsweise anhand der gegebenen Informationen schlussfolgern. Hierzu zählen beispielsweise die minimalen und maximalen Werte einer Skala, welche mit einer hohen Wahrscheinlichkeit aus den Rohdaten ablesbar sind. Hierzu kann aber auch zählen, sich zu überlegen, was logisch oder mögliche Angaben sind. Das bedeutet nicht, dass in der ursprünglichen Studie auch tatsächlich so gearbeitet wurde, gibt aber trotzdem einen guten Anhaltspunkt. Unabhängig davon, wie man vorgeht, müsste dies kenntlich gemacht werden. Nur so können andere Personen mögliche Fehler in den Schlussfolgerungen oder Annahmen finden, anhand welcher die entsprechenden Informationen ergänzt wurden."
+  },
+  {
+    "objectID": "codebook.html#welche-informationen-sind-für-das-codebook-relevant-die-studie-von-grinschgl-et-al.-2020-undoder-die-präregistrierung-von-grinschgl-et-al.-2020",
+    "href": "codebook.html#welche-informationen-sind-für-das-codebook-relevant-die-studie-von-grinschgl-et-al.-2020-undoder-die-präregistrierung-von-grinschgl-et-al.-2020",
+    "title": "2 Codebook",
+    "section": "Welche Informationen sind für das Codebook relevant? Die Studie von Grinschgl et al. (2020) und/oder die Präregistrierung von Grinschgl et al. (2020)?",
+    "text": "Welche Informationen sind für das Codebook relevant? Die Studie von Grinschgl et al. (2020) und/oder die Präregistrierung von Grinschgl et al. (2020)?\nFür das Ausfüllen des Codebook sind beide Quellen relevant, die Studie von Grinschgl et al. 2020 und die Präregistrierung zu Grinschgl et al. (2020)."
+  },
+  {
+    "objectID": "codebook.html#sollen-alle-messwiederholungen-im-codebook-einzeln-aufgeführt-werden-oder-soll-es-eine-einzelne-variable-für-die-messwiederholung-im-codebook-geben",
+    "href": "codebook.html#sollen-alle-messwiederholungen-im-codebook-einzeln-aufgeführt-werden-oder-soll-es-eine-einzelne-variable-für-die-messwiederholung-im-codebook-geben",
+    "title": "2 Codebook",
+    "section": "Sollen alle Messwiederholungen im Codebook einzeln aufgeführt werden oder soll es eine einzelne Variable für die Messwiederholung im Codebook geben?",
+    "text": "Sollen alle Messwiederholungen im Codebook einzeln aufgeführt werden oder soll es eine einzelne Variable für die Messwiederholung im Codebook geben?\nPrinzipiell gilt: Das Codebook soll es aussenstehenden möglichst einfach machen, sich mit den Daten und der Analyse der Daten vertraut zu machen und diese replizieren zu können. Daher gilt: Angaben sollten vollständig sein und so exakt wie möglich. Abweichungen – wie beispielsweise Zusammenfassungen mehrerer Variablen – sind demnach nur dann möglich und sinnvoll, wenn sich die einzelnen Variablen nicht voneinander unterscheiden und dies so klarer dargestellt werden kann."
+  },
+  {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "FAQ",
+    "section": "",
+    "text": "Hier findest du häufig gestellte Fragen und Antworten. Wir updaten diese Sammlung laufend."
+  },
+  {
+    "objectID": "loesung_1.html",
+    "href": "loesung_1.html",
+    "title": "Lösung 1",
+    "section": "",
+    "text": "Bei Bedarf finden sich hier nochmal die Slides zur EH1: \n\n\nInstalliere R und RStudio:\n\nInstallation von R – neueste Version 4.5.1: https://stat.ethz.ch/CRAN/\nInstallation von Rstudio (Version 2025.05.1): https://posit.co/download/rstudio-desktop/\n\nDu weisst nicht was mit R auf sich hat? Hier ist eine Kurzerklärung: https://methodenlehre.github.io/einfuehrung-in-R/\n\n\n\n\nRStudio öffnen & Einstellungen vornehmen: Unter «tools» –«global options» die unter 1.1. beschriebenen Einstellungen vornehmen: https://methodenlehre.github.io/einfuehrung-in-R/chapters/01-workflow.html\n\n\n\nNeues Skript öffnen & orientieren:\n\n\n\n\nIm folgenden machen wir uns vertraut mit der Oberfläche von R-Studio:\n\n\n\n\n\n\n\nSkript für Code-Eingabe sowie Kommentare\nKonsole für die Ausführung von Code -&gt; Teste einfache mathematische Operation in dieser; reproduziere diese mittels Skript\nRechts oben: Environment & History\nRechts unten: Files, Plots, Packages und Help Viewer\n\n\n\n\nTidyverse ist ein Meta-Paket, das mehrere Pakete umfasst\n\nPakete installieren (nur 1x notwendig) -&gt; führe diesen Code in der Konsole aus\n\ninstall.packages(\"tidyverse\")\n\nPaket laden (innerhalb des Skriptes, bei jedem Neustart von R notwendig)\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.1     ✔ stringr   1.5.2\n✔ ggplot2   4.0.0     ✔ tibble    3.3.0\n✔ lubridate 1.9.4     ✔ tidyr     1.3.1\n✔ purrr     1.1.0     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n\nTipp: Pakete regelmässig updaten mit z.B. update.packages()\n\n\n\na. Nutze R als Taschenrechner\n\n123+456\n\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n123 + 456\n\n[1] 579\n\n\n\n\n\n2.  `144*112`\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n144*112\n\n[1] 16128\n\n\n\n\n\n3.  `10/3`\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n10/3\n\n[1] 3.333333\n\n\n\n\n\n4.  Quadriere 420\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n420^2\n\n[1] 176400\n\n\n\n\n\n5.  Ziehe die Quadratwurzel aus 146 mit der Funktion `sqrt()`\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nsqrt(146)\n\n[1] 12.08305\n\n\n\n\n\n6.  Berechne den Rest der Division 10/3 mit dem Modulo Operator: `%%`\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n10 %% 3\n\n[1] 1\n\n\n\n\n\n\n\n\n\n\nZeichen\nBedeutung\n\n\n\n\n+\nAddition\n\n\n-\nSubstraktion\n\n\n*\nMultiplikation\n\n\n/\nDivision\n\n\nsqrt(x)\nQuadratwurzel\n\n\nabs(x)\nBetrag (absoluter Wert)\n\n\nx %% y\nModulo (x mod y) 5 %% 2 = 1\n\n\n^\nPotenz\n\n\n\n\n\n\n\n\nWeise den Wert 5 der Variable x zu mit dem Operator &lt;-\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nx &lt;- 5\n\n\n\n\n\nWeise eine beliebige Zahl der Variable y hinzu und dividiere dann x durch y. Speichere dieses Ergebnis in der Variable z.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\ny &lt;- 10 # hier könntet ihr auch jede andere Ziffer wählen\n\nz &lt;- x / y\n\n\n\n\n\nSchaue dir das Ergebnis in deinem Environment an. Lass dir das Ergebnis auch in der Konsole ausgeben. Das Environment findest du oben rechts, die Konsole ist unter deinem Skript.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n# z (hier über das # auskommentiert, da der Befehl nicht im Skript, sondern unten in der Konsole ausgeführt werden soll)\n\n\n\n\n\nErstelle zwei Variablen: Eine mit deinem Vornamen und eine mit deinem Nachnamen. Solche “character” Variablen musst du in Anführungszeichen setzen \"\"\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nvorname &lt;- \"Lars\"\nnachname &lt;- \"Schilling\"\n\n\n\n\n\nKombiniere deinen Vor- und Nachnamen zu deinem vollen Namen mittels paste . Speichere diese Variable als voller_name.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nvoller_name &lt;- paste(vorname, nachname)\n\n\n\n\n\n\n\n\nDefiniere einen Vektor «first_vector» mit den Zahlen 100, 80, 54, 73. Einen Vektor definiert man so: first_vector &lt;- c(...)\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nfirst_vector &lt;- c(100, 80, 54, 73)\n\n\n\n\n\nWende den Befehl boxplot() auf deinen Vektor an\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nboxplot(first_vector)\n\n\n\n\n\n\n\n\n\n\n\n\nBerechne die Summe sum()und den Mittelwert mean() von deinem Vektor\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nsum(first_vector)\n\n[1] 307\n\nmean(first_vector)\n\n[1] 76.75\n\n\n\n\n\n\nMultipliziere deinen Vektor mit *2\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nfirst_vector * 2\n\n[1] 200 160 108 146\n\n\n\n\n\nDie wichtigsten Operatoren und Funktionen in R: https://methodenlehre.github.io/einfuehrung-in-R/chapters/02-R-language.html\n\n\n\n\n\nFunktion\nBedeutung\n\n\n\n\nmean(x, na.rm =FALSE)\nMittelwert\n\n\nsd(x)\nStandardabweichung\n\n\nvar(x)\nVarianz\n\n\nmedian(x)\nMedian\n\n\nsum(x)\nSumme\n\n\nmin(x)\nMinimalwert\n\n\nmax(x)\nMaximalwert\n\n\nrange(x)\nMinimal - und Maximalwert\n\n\n\n\n\n\n\n\nTeste ob die Zahl 5 größer als 2 ist –&gt; TRUE or FALSE?\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n5 &gt; 2\n\n[1] TRUE\n\n\nTRUE, 5 ist grösser als 2.\n\n\n\n\nTeste ob 6 ungleich 8 ist –&gt; TRUE or FALSE?\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n6!=8\n\n[1] TRUE\n\n\nTRUE, 6 und 8 sind ungleich.\n\n\n\n\nSubtrahiere 80 von 50 und speichere das Ergebnis in einer Variable namens «diff_score».\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\ndiff_score &lt;- 80 - 50\n\n\n\n\n\nBerechne mit abs() den absoluten Wert von «diff_score» lassen dir diesen mit print(diff_score) in der Konsole ausgeben.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\ndiff_score_abs &lt;- abs(diff_score)\n\n# print(diff_score_abs) (hier erneut mit # auskommentiert, da der Befehl nicht im Skript, sondern in der Console ausgeführt werden soll)\n\n\n\n\n\n\n\n\n\nZeichen\nBedeutung\n\n\n\n\n==\ngleich\n\n\n!=\nungleich\n\n\n&gt;\ngrösser\n\n\n&gt;=\ngrösser gleich\n\n\n&lt;\nkleiner\n\n\n&lt;=\nkleiner gleich\n\n\n|\nLogisches Oder\n\n\n&\nLogisches Und\n\n\n\n\n\n\n\n\n\n\nInformative Kommentare im Code sind elementar für die Nachvollziehbarkeit.\n\nSchreibe einen Kommentar indem du ein # verwendest.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n# Hier ein Beipsiel für einen Kommentar, wie auch schon weiter oben mehrmals verwendet um die Lösungen davon zu hindern ausgeführt zu werden.\n\n\n\n\n\nCode der nach einem # steht wird nicht ausgeführt. Setze ein # vor eine Codezeile und führe sie aus und beobachte was passiert.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n# 1 + 2\n\n\n\n\n\n\n\nEs gibt verschiedene Konventionen wie man Variablen bennen kann:\nhttps://methodenlehre.github.io/einfuehrung-in-R/chapters/02-R-language.html#variablennamen\n\nDefiniere eine neue Variable nach snake_case\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nneue_variable &lt;- \"snake_case\"\n\n\n\n\n\nDefiniere eine zweite Variable nach CamelCase\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nneueVariable &lt;- \"CamelCase\"\n\n\n\n\n\n\n\n\n\nSpeichere die beiden höchsten Werte aus «first_vector» in einer neuen Variable ab.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\ntop_two &lt;- sort(first_vector, decreasing = TRUE)[1:2]\n\n\n\n\n\nErstelle einen Vektor mit Werten von 0-1000 in 10er Schritten.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nvec_seq &lt;- seq(from = 1, to = 1000, by = 10)\n\n\n\n\n\nZiehe zufällig eine Zahl aus diesem Vektor\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nsample(vec_seq, 1)\n\n[1] 1\n\n\n\n\n\n\nGeneriere einen Vektor, der aus 50 Wiederholungen der Zahl 3 besteht.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nmy_vector &lt;- rep(3, times = 50)\n\n\n\n\nTipps zu diesen Aufgaben findest du bei Bedarf hier: https://methodenlehre.github.io/einfuehrung-in-R/chapters/02-R-language.html (Kapitel 2.1)\n\n\n\n\nnumeric vectors: werden in integer (ganze Zahlen) und double (reelle Zahlen) unterteilt, z.B.\nnumerical_vector &lt;- c(1, 2.5, 4)\ncharacter vectors: bestehen aus Zeichen, welche von Anführungszeichen umgeben werden, z.B.\ntext_vector &lt;- c(\"Hello\", \"World\")\nlogical vectors: Elemente dieses Typs können nur 3 Werte annehmen: TRUE, FALSE oder NA\nlog_vector &lt;- c(TRUE, FALSE, TRUE)\n\nVektoren müssen aus denselbsten Elementen bestehen, d.h. z.B. numeric und character können nicht gemischt werden. Vektoren werden meist mit c() erstellt."
+  },
+  {
+    "objectID": "loesung_1.html#installation-r-und-r-studio",
+    "href": "loesung_1.html#installation-r-und-r-studio",
+    "title": "Lösung 1",
+    "section": "",
+    "text": "Installiere R und RStudio:\n\nInstallation von R – neueste Version 4.5.1: https://stat.ethz.ch/CRAN/\nInstallation von Rstudio (Version 2025.05.1): https://posit.co/download/rstudio-desktop/\n\nDu weisst nicht was mit R auf sich hat? Hier ist eine Kurzerklärung: https://methodenlehre.github.io/einfuehrung-in-R/"
+  },
+  {
+    "objectID": "loesung_1.html#einstellungen",
+    "href": "loesung_1.html#einstellungen",
+    "title": "Lösung 1",
+    "section": "",
+    "text": "RStudio öffnen & Einstellungen vornehmen: Unter «tools» –«global options» die unter 1.1. beschriebenen Einstellungen vornehmen: https://methodenlehre.github.io/einfuehrung-in-R/chapters/01-workflow.html\n\n\n\nNeues Skript öffnen & orientieren:"
+  },
+  {
+    "objectID": "loesung_1.html#hands-on-coding-basics",
+    "href": "loesung_1.html#hands-on-coding-basics",
+    "title": "Lösung 1",
+    "section": "",
+    "text": "Im folgenden machen wir uns vertraut mit der Oberfläche von R-Studio:\n\n\n\n\n\n\n\nSkript für Code-Eingabe sowie Kommentare\nKonsole für die Ausführung von Code -&gt; Teste einfache mathematische Operation in dieser; reproduziere diese mittels Skript\nRechts oben: Environment & History\nRechts unten: Files, Plots, Packages und Help Viewer"
+  },
+  {
+    "objectID": "loesung_1.html#pakete-installieren-und-laden",
+    "href": "loesung_1.html#pakete-installieren-und-laden",
+    "title": "Lösung 1",
+    "section": "",
+    "text": "Tidyverse ist ein Meta-Paket, das mehrere Pakete umfasst\n\nPakete installieren (nur 1x notwendig) -&gt; führe diesen Code in der Konsole aus\n\ninstall.packages(\"tidyverse\")\n\nPaket laden (innerhalb des Skriptes, bei jedem Neustart von R notwendig)\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.1     ✔ stringr   1.5.2\n✔ ggplot2   4.0.0     ✔ tibble    3.3.0\n✔ lubridate 1.9.4     ✔ tidyr     1.3.1\n✔ purrr     1.1.0     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n\nTipp: Pakete regelmässig updaten mit z.B. update.packages()\n\n\n\na. Nutze R als Taschenrechner\n\n123+456\n\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n123 + 456\n\n[1] 579\n\n\n\n\n\n2.  `144*112`\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n144*112\n\n[1] 16128\n\n\n\n\n\n3.  `10/3`\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n10/3\n\n[1] 3.333333\n\n\n\n\n\n4.  Quadriere 420\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n420^2\n\n[1] 176400\n\n\n\n\n\n5.  Ziehe die Quadratwurzel aus 146 mit der Funktion `sqrt()`\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nsqrt(146)\n\n[1] 12.08305\n\n\n\n\n\n6.  Berechne den Rest der Division 10/3 mit dem Modulo Operator: `%%`\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n10 %% 3\n\n[1] 1\n\n\n\n\n\n\n\n\n\n\nZeichen\nBedeutung\n\n\n\n\n+\nAddition\n\n\n-\nSubstraktion\n\n\n*\nMultiplikation\n\n\n/\nDivision\n\n\nsqrt(x)\nQuadratwurzel\n\n\nabs(x)\nBetrag (absoluter Wert)\n\n\nx %% y\nModulo (x mod y) 5 %% 2 = 1\n\n\n^\nPotenz\n\n\n\n\n\n\n\n\nWeise den Wert 5 der Variable x zu mit dem Operator &lt;-\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nx &lt;- 5\n\n\n\n\n\nWeise eine beliebige Zahl der Variable y hinzu und dividiere dann x durch y. Speichere dieses Ergebnis in der Variable z.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\ny &lt;- 10 # hier könntet ihr auch jede andere Ziffer wählen\n\nz &lt;- x / y\n\n\n\n\n\nSchaue dir das Ergebnis in deinem Environment an. Lass dir das Ergebnis auch in der Konsole ausgeben. Das Environment findest du oben rechts, die Konsole ist unter deinem Skript.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n# z (hier über das # auskommentiert, da der Befehl nicht im Skript, sondern unten in der Konsole ausgeführt werden soll)\n\n\n\n\n\nErstelle zwei Variablen: Eine mit deinem Vornamen und eine mit deinem Nachnamen. Solche “character” Variablen musst du in Anführungszeichen setzen \"\"\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nvorname &lt;- \"Lars\"\nnachname &lt;- \"Schilling\"\n\n\n\n\n\nKombiniere deinen Vor- und Nachnamen zu deinem vollen Namen mittels paste . Speichere diese Variable als voller_name.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nvoller_name &lt;- paste(vorname, nachname)\n\n\n\n\n\n\n\n\nDefiniere einen Vektor «first_vector» mit den Zahlen 100, 80, 54, 73. Einen Vektor definiert man so: first_vector &lt;- c(...)\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nfirst_vector &lt;- c(100, 80, 54, 73)\n\n\n\n\n\nWende den Befehl boxplot() auf deinen Vektor an\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nboxplot(first_vector)\n\n\n\n\n\n\n\n\n\n\n\n\nBerechne die Summe sum()und den Mittelwert mean() von deinem Vektor\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nsum(first_vector)\n\n[1] 307\n\nmean(first_vector)\n\n[1] 76.75\n\n\n\n\n\n\nMultipliziere deinen Vektor mit *2\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nfirst_vector * 2\n\n[1] 200 160 108 146\n\n\n\n\n\nDie wichtigsten Operatoren und Funktionen in R: https://methodenlehre.github.io/einfuehrung-in-R/chapters/02-R-language.html\n\n\n\n\n\nFunktion\nBedeutung\n\n\n\n\nmean(x, na.rm =FALSE)\nMittelwert\n\n\nsd(x)\nStandardabweichung\n\n\nvar(x)\nVarianz\n\n\nmedian(x)\nMedian\n\n\nsum(x)\nSumme\n\n\nmin(x)\nMinimalwert\n\n\nmax(x)\nMaximalwert\n\n\nrange(x)\nMinimal - und Maximalwert\n\n\n\n\n\n\n\n\nTeste ob die Zahl 5 größer als 2 ist –&gt; TRUE or FALSE?\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n5 &gt; 2\n\n[1] TRUE\n\n\nTRUE, 5 ist grösser als 2.\n\n\n\n\nTeste ob 6 ungleich 8 ist –&gt; TRUE or FALSE?\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n6!=8\n\n[1] TRUE\n\n\nTRUE, 6 und 8 sind ungleich.\n\n\n\n\nSubtrahiere 80 von 50 und speichere das Ergebnis in einer Variable namens «diff_score».\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\ndiff_score &lt;- 80 - 50\n\n\n\n\n\nBerechne mit abs() den absoluten Wert von «diff_score» lassen dir diesen mit print(diff_score) in der Konsole ausgeben.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\ndiff_score_abs &lt;- abs(diff_score)\n\n# print(diff_score_abs) (hier erneut mit # auskommentiert, da der Befehl nicht im Skript, sondern in der Console ausgeführt werden soll)\n\n\n\n\n\n\n\n\n\nZeichen\nBedeutung\n\n\n\n\n==\ngleich\n\n\n!=\nungleich\n\n\n&gt;\ngrösser\n\n\n&gt;=\ngrösser gleich\n\n\n&lt;\nkleiner\n\n\n&lt;=\nkleiner gleich\n\n\n|\nLogisches Oder\n\n\n&\nLogisches Und"
+  },
+  {
+    "objectID": "loesung_1.html#nachvollziehbarkeit-von-code",
+    "href": "loesung_1.html#nachvollziehbarkeit-von-code",
+    "title": "Lösung 1",
+    "section": "",
+    "text": "Informative Kommentare im Code sind elementar für die Nachvollziehbarkeit.\n\nSchreibe einen Kommentar indem du ein # verwendest.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n# Hier ein Beipsiel für einen Kommentar, wie auch schon weiter oben mehrmals verwendet um die Lösungen davon zu hindern ausgeführt zu werden.\n\n\n\n\n\nCode der nach einem # steht wird nicht ausgeführt. Setze ein # vor eine Codezeile und führe sie aus und beobachte was passiert.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\n# 1 + 2\n\n\n\n\n\n\n\nEs gibt verschiedene Konventionen wie man Variablen bennen kann:\nhttps://methodenlehre.github.io/einfuehrung-in-R/chapters/02-R-language.html#variablennamen\n\nDefiniere eine neue Variable nach snake_case\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nneue_variable &lt;- \"snake_case\"\n\n\n\n\n\nDefiniere eine zweite Variable nach CamelCase\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nneueVariable &lt;- \"CamelCase\""
+  },
+  {
+    "objectID": "loesung_1.html#für-fortgeschrittene-r-nutzerinnen",
+    "href": "loesung_1.html#für-fortgeschrittene-r-nutzerinnen",
+    "title": "Lösung 1",
+    "section": "",
+    "text": "Speichere die beiden höchsten Werte aus «first_vector» in einer neuen Variable ab.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\ntop_two &lt;- sort(first_vector, decreasing = TRUE)[1:2]\n\n\n\n\n\nErstelle einen Vektor mit Werten von 0-1000 in 10er Schritten.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nvec_seq &lt;- seq(from = 1, to = 1000, by = 10)\n\n\n\n\n\nZiehe zufällig eine Zahl aus diesem Vektor\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nsample(vec_seq, 1)\n\n[1] 1\n\n\n\n\n\n\nGeneriere einen Vektor, der aus 50 Wiederholungen der Zahl 3 besteht.\n\n\n\n\n\n\n\nNoteLösung\n\n\n\n\n\n\nmy_vector &lt;- rep(3, times = 50)\n\n\n\n\nTipps zu diesen Aufgaben findest du bei Bedarf hier: https://methodenlehre.github.io/einfuehrung-in-R/chapters/02-R-language.html (Kapitel 2.1)"
+  },
+  {
+    "objectID": "loesung_1.html#datentypen",
+    "href": "loesung_1.html#datentypen",
+    "title": "Lösung 1",
+    "section": "",
+    "text": "numeric vectors: werden in integer (ganze Zahlen) und double (reelle Zahlen) unterteilt, z.B.\nnumerical_vector &lt;- c(1, 2.5, 4)\ncharacter vectors: bestehen aus Zeichen, welche von Anführungszeichen umgeben werden, z.B.\ntext_vector &lt;- c(\"Hello\", \"World\")\nlogical vectors: Elemente dieses Typs können nur 3 Werte annehmen: TRUE, FALSE oder NA\nlog_vector &lt;- c(TRUE, FALSE, TRUE)\n\nVektoren müssen aus denselbsten Elementen bestehen, d.h. z.B. numeric und character können nicht gemischt werden. Vektoren werden meist mit c() erstellt."
+  },
+  {
+    "objectID": "datenanalyseplan.html",
+    "href": "datenanalyseplan.html",
+    "title": "3 Datenanalyseplan",
+    "section": "",
+    "text": "Fragen zum Datenanalyseplan"
+  },
+  {
+    "objectID": "datenanalyseplan.html#müssen-die-anmerkungen-im-datenanalyseplan-nach-der-bearbeitung-gelöscht-werden-so-dass-nur-die-frage-und-der-titel-verbleiben",
+    "href": "datenanalyseplan.html#müssen-die-anmerkungen-im-datenanalyseplan-nach-der-bearbeitung-gelöscht-werden-so-dass-nur-die-frage-und-der-titel-verbleiben",
+    "title": "3 Datenanalyseplan",
+    "section": "Müssen die Anmerkungen im Datenanalyseplan nach der Bearbeitung gelöscht werden, so dass nur die Frage und der Titel verbleiben?",
+    "text": "Müssen die Anmerkungen im Datenanalyseplan nach der Bearbeitung gelöscht werden, so dass nur die Frage und der Titel verbleiben?\nÜblicherweise werden Datenanalysepläne auf OSF (dem Open Science Framework) mitsamt den Anmerkungen veröffentlicht. Für das Seminar ist es möglich die Anmerkungen zu behalten oder zu löschen."
+  },
+  {
+    "objectID": "datenanalyseplan.html#müssen-auch-zu-explorativen-fragestellungen-hypothesen-aufgestellt-werden",
+    "href": "datenanalyseplan.html#müssen-auch-zu-explorativen-fragestellungen-hypothesen-aufgestellt-werden",
+    "title": "3 Datenanalyseplan",
+    "section": "Müssen auch zu explorativen Fragestellungen Hypothesen aufgestellt werden?",
+    "text": "Müssen auch zu explorativen Fragestellungen Hypothesen aufgestellt werden?\nKurzgesagt, nein. Bei explorativen Fragestellungen kann man auch einfach anmerken, dass diese explorativ sind – es also keine bisherige Theorie oder Evidenz für einen bestimmte Richtung gibt. Wichtig ist hierbei vor allem, transparent und vorausschauend zu arbeiten, in diesem Fall also den Umstand, explorativ zu arbeiten, klar zu benennen."
+  },
+  {
+    "objectID": "datenanalyseplan.html#wenn-voraussetzungsprüfungen-oder-post-hoc-tests-durchgeführt-werden-müssen-diese-auch-im-datenanalyseplan-ergänzt-werden",
+    "href": "datenanalyseplan.html#wenn-voraussetzungsprüfungen-oder-post-hoc-tests-durchgeführt-werden-müssen-diese-auch-im-datenanalyseplan-ergänzt-werden",
+    "title": "3 Datenanalyseplan",
+    "section": "Wenn Voraussetzungsprüfungen oder post-hoc Tests durchgeführt werden, müssen diese auch im Datenanalyseplan ergänzt werden?",
+    "text": "Wenn Voraussetzungsprüfungen oder post-hoc Tests durchgeführt werden, müssen diese auch im Datenanalyseplan ergänzt werden?\nGrundsätzlich gilt: Der Datenanalyseplan soll fremden Wissenschaftler:innen aus der Psychologie ermöglichen die Studie und die Datenanalyse ohne weiteren Aufwand nachvollziehen zu können. Dafür sollte auf Vollständigkeit und Genauigkeit geachtet werden. Dementsprechend gilt es, die Voraussetzungsprüfungen entweder komplett wegzulassen oder sie sowohl im Skript als auch im Datenanalyseplan zu ergänzen."
+  },
+  {
+    "objectID": "datenanalyseplan.html#soll-der-abstract-bereits-die-resultate-von-grinschgl-et-al.-2020-erwähnen-oder-offenlassen-welche-resultate-zu-erwarten-sind",
+    "href": "datenanalyseplan.html#soll-der-abstract-bereits-die-resultate-von-grinschgl-et-al.-2020-erwähnen-oder-offenlassen-welche-resultate-zu-erwarten-sind",
+    "title": "3 Datenanalyseplan",
+    "section": "Soll der Abstract bereits die Resultate von Grinschgl et al. (2020) erwähnen oder offenlassen, welche Resultate zu erwarten sind?",
+    "text": "Soll der Abstract bereits die Resultate von Grinschgl et al. (2020) erwähnen oder offenlassen, welche Resultate zu erwarten sind?\nÜblicherweise lässt der Datenanalyseplan die Resultate der beschriebenen Analyse im Abstract noch offen, da diese zu dem Zeitpunkt, zu welchem der Datenanalyseplan erstellt wird, noch nicht bekannt sind. Bei einer Replikation der Originalstudie – wie es hier der Fall ist – können die Ergebnisse aus dieser aber auch bereits genannt werden. Bezüglich der eigenen Datenanalyse sollte wiederum von erwarteten Ergebnissen ausgehen. Da die Analyse der Daten erst nach Verfassen des Datenanalyseplans folgt sind die Resultate bis dahin nicht bekannt."
+  },
+  {
+    "objectID": "rstudio.html",
+    "href": "rstudio.html",
+    "title": "1 RStudio",
+    "section": "",
+    "text": "Fragen zu RStudio\nUnabhängig von konkreten Fragen zu RStudio kannst du hier noch mal das Skript zur Einführung in R Studio von Andrew Ellis und Boris Mayer abrufen."
+  },
+  {
+    "objectID": "rstudio.html#was-gibt-es-alles-für-funktionen-zum-einlesen-der-daten-und-welche-davon-ist-am-besten-geeignet",
+    "href": "rstudio.html#was-gibt-es-alles-für-funktionen-zum-einlesen-der-daten-und-welche-davon-ist-am-besten-geeignet",
+    "title": "1 RStudio",
+    "section": "Was gibt es alles für Funktionen zum Einlesen der Daten und welche davon ist am besten geeignet?",
+    "text": "Was gibt es alles für Funktionen zum Einlesen der Daten und welche davon ist am besten geeignet?\nDer einfachste Weg die Daten zu laden, geht über das Environment oben rechts in RStudio. Welche Funktion benötigt wird bzw. welche Funktion verwenden werden kann hängt vom Dateiformat der zu ladende Datei ab. Häufig verwendete Dateiformate sind .xlsx, .csv und .sav. Bei .csv handelt es sich um eine Textdatei, bei welcher die Spalten durch Kommas (csv = Comma-separated values) oder Semikolons getrennt sind. .sav ist die Dateiendung für eine SPSS-Datei und .xlsx ist die Dateiendung für eine Excel-Datei.\n\n\n\n\n\n\nNote\n\n\n\nWeiterführende Informationen und Beispiele können hier nachgelesen werden.\n\n\n\n\n\nAbb. 1.: Environment"
+  },
+  {
+    "objectID": "rstudio.html#wofür-stehen-die-zusätzlichen-argumente-wie-escape_double-oder-trim_ws-beim-einlesen-von-dateien",
+    "href": "rstudio.html#wofür-stehen-die-zusätzlichen-argumente-wie-escape_double-oder-trim_ws-beim-einlesen-von-dateien",
+    "title": "1 RStudio",
+    "section": "Wofür stehen die zusätzlichen Argumente wie escape_double oder trim_ws beim Einlesen von Dateien?",
+    "text": "Wofür stehen die zusätzlichen Argumente wie escape_double oder trim_ws beim Einlesen von Dateien?\n\n\n\n\n\n\nImportant\n\n\n\nDu kannst anhand der Syntax ?Funktionsname()die Dokumentation einer Funktion aufrufen. Hier wird beschrieben, welche Argumente die Funktion erwartet, was die Default-Einstellungen sind und was die Funktion ausgibt.\n\n\nWenn man mit read_delim() aus dem readr Paket die Daten einliest, interpretiert das Argument escape_double = TRUE doppelte Anführungsstriche als einfache Anführungsstriche (““ = “). Mit dem Argument trim_ws = TRUE werden Leerzeichen vor oder nach einer Zeichenkette gelöscht („ Vor dem „V“ befindet sich ein Leerzeichen = „Vor dem „V“ befindet sich ein Leerzeichen). Beide Optionen sind per Default auf TRUE gesetzt. Die folgenden beiden Varianten sind somit identisch:\n\ndata &lt;- readr::read_delim(\"data.csv\", delim = \";\", escape_double = TRUE, trim_ws = TRUE)\n\ndata &lt;- readr::read_delim(\"data.csv\", delim = \";\")"
+  },
+  {
+    "objectID": "rstudio.html#was-ist-der-unterschied-zwischen-cbind-und-den-xy_join-funktionen",
+    "href": "rstudio.html#was-ist-der-unterschied-zwischen-cbind-und-den-xy_join-funktionen",
+    "title": "1 RStudio",
+    "section": "Was ist der Unterschied zwischen cbind() und den xy_join()-Funktionen?",
+    "text": "Was ist der Unterschied zwischen cbind() und den xy_join()-Funktionen?\nDie Funktion cbind() kann man sich wie „Kleber“ vorstellen. Die Datensätze werden ohne Berücksichtigung der Reihenfolgen der Zeilen aneinandergeklebt. Hierdurch könnten im zusammengefügten Datensatz Werte derselben Zeile von verschiedenen Versuchspersonen stammen. Mit der Funktion xy_join() wird vor dem Zusammenfügen der beiden Datensätze die Reihenfolge der Zeilen über beide Datensätze hinweg kontrolliert und angeglichen. Hierfür wird jene Spalte verwendet, die im Argument xy_join(data, by = „…“) genannt wurde. Damit wird sichergestellt, dass im resultierenden Datensatz Werte derselben Zeile auch von einer einzelnen Versuchsperson stammen."
+  },
+  {
+    "objectID": "rstudio.html#was-ist-der-unterschied-zwischen-inner_join-left_join-right_join-full_join",
+    "href": "rstudio.html#was-ist-der-unterschied-zwischen-inner_join-left_join-right_join-full_join",
+    "title": "1 RStudio",
+    "section": "Was ist der Unterschied zwischen inner_join(), left_join(), right_join(), full_join()?",
+    "text": "Was ist der Unterschied zwischen inner_join(), left_join(), right_join(), full_join()?\nDie Funktionen unterscheiden sich dahingehend, was von den beiden Datensätzen nach der Zusammenfügung erhalten bleiben soll. inner_join() übernimmt nur Zeilen, welche in beiden Datensätzen vorhanden sind. full_join() übernimmt alle Zeilen, auch wenn sie nur in einen der beiden Datensätze auftaucht. Der Eintrag in der Spalte des anderen Datensatzes wird einfach mit NA ergänzt. Die verbleibenden beiden Funktionen “bevorzugen” sozusagen ihren entsprechenden Datensatz, übernehmen von diesem alle Zeilen und vom anderen Datensatz lediglich die damit übereinstimmenden.\n\n\n\n\n\n\nNote\n\n\n\nEine ausführlichere Beschreibung zu dem Thema findet sich auch noch mal hier unter Kapitel 19.4. Hier sind animierte Abbildungen zu den Funktionsweisen."
+  },
+  {
+    "objectID": "rstudio.html#wann-verwendet-man-welche-der-xy_join-funktionen-und-anhand-welcher-variable-sollen-die-datensätze-zusammengefügt-werden",
+    "href": "rstudio.html#wann-verwendet-man-welche-der-xy_join-funktionen-und-anhand-welcher-variable-sollen-die-datensätze-zusammengefügt-werden",
+    "title": "1 RStudio",
+    "section": "Wann verwendet man welche der xy_join()-Funktionen und anhand welcher Variable sollen die Datensätze zusammengefügt werden?",
+    "text": "Wann verwendet man welche der xy_join()-Funktionen und anhand welcher Variable sollen die Datensätze zusammengefügt werden?\nWelche der xy_join()-Funktionen man am sinnvollsten nutzen sollte hängt von der Datenstruktur ab und was man mit den Daten im Folgenden noch machen möchte. Ein Datensatz mit full_join() erstellt würde beispielsweise die meisten Einträge (inkl. NAs) aufweisen, andererseits wäre dieser Datensatz aber auch vermutlich am unübersichtlichsten. Ob man right_join() oder left_join() verwendet kann beispielsweise einfach nur davon abhängen, welchen Datensatz man als links (bzw. zuerst) vorliegend oder als rechts (bzw. als zweites) vorliegend definiert. Das hängt von den Argumenten in der Funktion ab. Kurzum: Welche Funktion am passendsten ist hängt von der spezifischen Fragestellung ab und davon, in welcher Reihenfolge man die Datensätze betrachtet und der Funktion übergeben möchte. Anhand welcher Variable die Zusammenfügung der Datensätze erfolgen soll lässt sich ebenfalls nicht pauschal sagen. Jeder Datensatz kann andere Spaltennamen oder Strukturen aufweisen. In der Psychologie ist es allerdings üblich, dass man jeder Versuchsperson über Datenerhebungen hinweg einen individuellen Code zuweist. Dieser wird dann zum Zusammenfügen verwendet. Oft heisst diese Variable Code oder ID – sie kann aber auch komplett anders heissen. Unabhängig vom konkreten Namen sollte das Codebook anzeigen, ob es eine solche Variable gibt und um welche es sich handelt."
+  },
+  {
+    "objectID": "rstudio.html#wie-kann-man-ein-bereits-gesetztes-working-directory-also-den-arbeitsspeicher-des-skriptes-verschieben-idealerweise-sogar-von-ausserhalb-eines-projektes-in-ein-projekt-hinein",
+    "href": "rstudio.html#wie-kann-man-ein-bereits-gesetztes-working-directory-also-den-arbeitsspeicher-des-skriptes-verschieben-idealerweise-sogar-von-ausserhalb-eines-projektes-in-ein-projekt-hinein",
+    "title": "1 RStudio",
+    "section": "Wie kann man ein bereits gesetztes working directory (also den Arbeitsspeicher des Skriptes) verschieben, idealerweise sogar von ausserhalb eines Projektes in ein Projekt hinein?",
+    "text": "Wie kann man ein bereits gesetztes working directory (also den Arbeitsspeicher des Skriptes) verschieben, idealerweise sogar von ausserhalb eines Projektes in ein Projekt hinein?\nAm einfachsten schliesst man das Skript und verschiebt es innerhalb deines Ordnersystems in das Projekt. Dann öffnet man RStudio (aber nicht das Skript, sondern nur das Programm) und wählt im gestarteten RStudio über File – Open File… das Skript aus und speichert es ab. Das working directory sollte nun innerhalb des Projektes liegen."
+  },
+  {
+    "objectID": "rstudio.html#was-ist-der-unterschied-zwischen-der-funktion-mutate-und-der-funktion-summarize-wie-kombiniert-man-diese-funktionen-am-besten-mit-group_by",
+    "href": "rstudio.html#was-ist-der-unterschied-zwischen-der-funktion-mutate-und-der-funktion-summarize-wie-kombiniert-man-diese-funktionen-am-besten-mit-group_by",
+    "title": "1 RStudio",
+    "section": "Was ist der Unterschied zwischen der Funktion mutate() und der Funktion summarize()? Wie kombiniert man diese Funktionen am besten mit group_by()?",
+    "text": "Was ist der Unterschied zwischen der Funktion mutate() und der Funktion summarize()? Wie kombiniert man diese Funktionen am besten mit group_by()?\n\n\n\n\n\n\nImportant\n\n\n\nVorweg: Du kannst anhand der Syntax ?Funktionsname()die Dokumentation einer Funktion aufrufen. Hier wird beschrieben, welche Argumente die Funktion erwartet, was die Default-Einstellungen sind und was die Funktion ausgibt.\n\n\nMit mutate() fügst du Spalten hinzu oder änderst sie, während alle Zeilen erhalten bleiben; summarise() verdichtet hingegen die Zeilen zu Aggregaten – ohne Gruppierung zu einer Zeile für den gesamten Datensatz und mit group_by() zu einer Zeile pro Gruppe – und gibt dabei nur die Gruppenvariablen sowie die neu berechneten Kennwerte zurück.\n\n\n\n\n\n\nNote\n\n\n\nVisualisierungen finden sich hier."
+  },
+  {
+    "objectID": "rstudio.html#wie-funktioniert-die-umwandlung-eines-wide-datensatzes-hin-zu-einem-long-datensatz-und-welche-argumente-beinhaltet-die-hierfür-angewendete-funktion-pivot_longer",
+    "href": "rstudio.html#wie-funktioniert-die-umwandlung-eines-wide-datensatzes-hin-zu-einem-long-datensatz-und-welche-argumente-beinhaltet-die-hierfür-angewendete-funktion-pivot_longer",
+    "title": "1 RStudio",
+    "section": "Wie funktioniert die Umwandlung eines wide-Datensatzes hin zu einem long-Datensatz und welche Argumente beinhaltet die hierfür angewendete Funktion pivot_longer()?",
+    "text": "Wie funktioniert die Umwandlung eines wide-Datensatzes hin zu einem long-Datensatz und welche Argumente beinhaltet die hierfür angewendete Funktion pivot_longer()?\n\n\n\n\n\n\nImportant\n\n\n\nDu kannst anhand der Syntax ?Funktionsname()die Dokumentation einer Funktion aufrufen. Hier wird beschrieben, welche Argumente die Funktion erwartet, was die Default-Einstellungen sind und was die Funktion ausgibt.\n\n\nWie schon in der Frage erwähnt, die passende Funktion zur Umwandlung eines Datensatzes vom wide-Format in das long-Format erfolgt anhand der Funktion pivot_longer(). Die Funktion nimmt als die ersten beiden Argumente den Datensatz (data) und die Spalten, welche transformiert werden sollen (cols). Mit den anderen beiden Argumenten werden die Namen bestimmt, welche die Spalten haben sollen, in welcher die früheren Spaltenüberschriften (names_to = \"name\") und die Werte (values_to = \"value\") eingetragen werden.\n\ndata_long &lt;- data_wide |&gt; \n  pivot_longer(\n    cols = c(Spalte1, Spalte2, Spalte3), \n    names_to = \"Hier kommt der Name der Spalte rein, in welcher die früheren Spaltenüberschriften abgelegt sind\", \n    values_to = \"Hier kommt der Name der Spalte rein, in welcher die Werte der entsprechenden früheren Spalten abgelegt sind\"\n  )\n\n\n\n\n\n\n\nNote\n\n\n\nWeitere Informationen und Beispiele finden sich hier."
+  },
+  {
+    "objectID": "rstudio.html#wie-funktioniert-der-pipe-operator-bzw.-und-was-ist-der-unterschied-zwischen-den-beiden",
+    "href": "rstudio.html#wie-funktioniert-der-pipe-operator-bzw.-und-was-ist-der-unterschied-zwischen-den-beiden",
+    "title": "1 RStudio",
+    "section": "Wie funktioniert der Pipe Operator |> bzw. %>% und was ist der Unterschied zwischen den beiden?",
+    "text": "Wie funktioniert der Pipe Operator |&gt; bzw. %&gt;% und was ist der Unterschied zwischen den beiden?\nDer Pipe Operator nimmt das Resultat von oben bzw. links und übergibt dieses Zwischenergebnis nach unten bzw. rechts. Was helfen könnte: Die Syntax erst ohne Pipe aufschreiben und dann die Klammern nach und nach auflösen und mit der Pipe ersetzen. Die folgenden Code-Snippets sind äquivalent:\n\nsummarize(\n  filter(data, Variable == \"A\"),\n  mean = mean(Wert, na.rm = TRUE),\n  sd = sd(Wert, na.rm = TRUE)\n)\n\ndata %&gt;%\n  filter(Variable == \"A\") %&gt;%\n  summarize(mean = mean(Wert, na.rm = TRUE), sd = sd(Wert, na.rm = TRUE))\n\ndata |&gt; \n  filter(Variable == \"A\") |&gt; \n  summarize(mean = mean(Wert, na.rm = TRUE), sd = sd(Wert, na.rm = TRUE))\n\n\n\n\n\n\n\nNote\n\n\n\nDie Pipe Operatoren unterscheiden sich nur geringfügig und die Unterschiede sind für den Rahmen des Seminars nicht relevant, können jedoch hier nachgelesen werden."
+  },
+  {
+    "objectID": "rstudio.html#wie-funktioniert-die-t.test-funktion",
+    "href": "rstudio.html#wie-funktioniert-die-t.test-funktion",
+    "title": "1 RStudio",
+    "section": "Wie funktioniert die t.test()-Funktion?",
+    "text": "Wie funktioniert die t.test()-Funktion?\n\n\n\n\n\n\nImportant\n\n\n\nDu kannst anhand der Syntax ?Funktionsname()die Dokumentation einer Funktion aufrufen. Hier wird beschrieben, welche Argumente die Funktion erwartet, was die Default-Einstellungen sind und was die Funktion ausgibt.\n\n\nBei der t.test()-Funktion werden die Mittelwerte von Gruppen verglichen. Das Argument x ist verpflichtend und erwartet einen nummerischen Vektor (üblicherweise der Wert von Versuchspersonen auf der relevanten Variable). Das Argument y ist ein optionaler weiterer nummerischer Vektor, falls es sich um einen Zwei-Stichproben-Tests handelt. Das Argument alternative spezifiziert wie der t-Test ausgerichtet ist (≤, ≥ oder ≠). Das Argument mu gibt den erwarteten Mittelwert unter H0 an (Default = 0). Das Argument var.equal bestimmt, ob der Test unter der Annahme von Varianzhomogenität durch wird. Sprich, ob zwischen den beiden Gruppen die Varianzen gleich sind. Ist diese Annahme erfüllt, so wird ein students t-Test gerechnet. Ansonsten wird ein Welch t-Test gerechnet. Mit conf.level kann das Konfidenzintervall beliebig angepasst werden (Default = 0.95). Hier ein Beispiel Code-Snippet:\n\nt.test(x = data$Wert[data$Gruppe == \"A\"], \n       y = data$Wert[data$Gruppe == \"B\"], \n       alternative = \"two.sided\", # in diesem Fall ist der Test ungerichtet\n       mu = 0, # H0: Mittelwertunterschied = 0 (Default)\n       var.equal = FALSE, # Ablehnung der Varianzhomogenität (Defualt) und damit ein Welch`s t-Test\n       conf.level = 0.95) # Default"
+  },
+  {
+    "objectID": "rstudio.html#was-ist-der-unterschied-zwischen-as_factor-und-as.factor",
+    "href": "rstudio.html#was-ist-der-unterschied-zwischen-as_factor-und-as.factor",
+    "title": "1 RStudio",
+    "section": "Was ist der Unterschied zwischen as_factor() und as.factor()?",
+    "text": "Was ist der Unterschied zwischen as_factor() und as.factor()?\n\n\n\n\n\n\nImportant\n\n\n\nDu kannst anhand der Syntax ?Funktionsname()die Dokumentation einer Funktion aufrufen. Hier wird beschrieben, welche Argumente die Funktion erwartet, was die Default-Einstellungen sind und was die Funktion ausgibt. Hierüber lassen sich auch Unterschiede zwischen ähnlichen Funktionen feststellen.\n\n\nBeide Funktionen formatieren Werte einer Spalte hin zu Faktoren. as.factor() ist in Base R vorhanden und erstellt die Faktoren anhand des Alphabets. as_factor() stammt aus dem Tidyverse, kann bereits in SPSS-Dateien enthaltene Faktorisierungen auslesen und erstellt neue Faktoren anhand der Auftrittsreihenfolge im Vektor."
+  },
+  {
+    "objectID": "rstudio.html#was-gibt-es-bei-ggplot-alles-für-visualisierungsmöglichkeiten",
+    "href": "rstudio.html#was-gibt-es-bei-ggplot-alles-für-visualisierungsmöglichkeiten",
+    "title": "1 RStudio",
+    "section": "Was gibt es bei ggplot alles für Visualisierungsmöglichkeiten?",
+    "text": "Was gibt es bei ggplot alles für Visualisierungsmöglichkeiten?\nMit ggplot kann eine ganze Reihe an Visualisierungen manuell festgelegt werden, von der Art des Graphen, mehrdimensionale Darstellungen, Formatierung wie Farben, Grössen uvm. Eine grobe Übersicht gibt es hier.\n\n\n\n\n\n\nNote\n\n\n\nBeispiele und Übungen finden sich hier."
+  },
+  {
+    "objectID": "rstudio.html#wie-kann-man-sicherstellen-dass-bei-der-visualisierung-von-graphen-die-apa-guidelines-eingehalten-werden",
+    "href": "rstudio.html#wie-kann-man-sicherstellen-dass-bei-der-visualisierung-von-graphen-die-apa-guidelines-eingehalten-werden",
+    "title": "1 RStudio",
+    "section": "Wie kann man sicherstellen, dass bei der Visualisierung von Graphen die APA-Guidelines eingehalten werden?",
+    "text": "Wie kann man sicherstellen, dass bei der Visualisierung von Graphen die APA-Guidelines eingehalten werden?\nHierfür gibt es ein extra [theme_apa()](https://rdrr.io/cran/jtools/man/theme_apa.html). Dieses nimmt einem viele der Formatierungen ab. Einzelheiten muss man trotzdem noch prüfen bzw. je nach Abbildung müssen manche Formatierungen auch noch selbst ergänzt werden. Die genaueren APA-Guidelines sind auch noch mal hier zu finden."
+  },
+  {
+    "objectID": "rstudio.html#wann-wird-ein-element-mit-und-wann-wird-ein-element-ohne-anführungszeichen-angesprochen",
+    "href": "rstudio.html#wann-wird-ein-element-mit-und-wann-wird-ein-element-ohne-anführungszeichen-angesprochen",
+    "title": "1 RStudio",
+    "section": "Wann wird ein Element mit und wann wird ein Element ohne Anführungszeichen angesprochen?",
+    "text": "Wann wird ein Element mit und wann wird ein Element ohne Anführungszeichen angesprochen?\nAls Regel: Spricht man ein Objekt aus der Environment an, dann werden keine Anführungszeichen verwendet. Spricht man numerische Elemente aus einer Spalte an, dann werden ebenfalls keine Anführungszeichen verwendet. Spricht man Spaltenelemente an, welche als Faktor oder als Character formatiert sind, dann werden auch Anführungszeichen verwendet."
+  },
+  {
+    "objectID": "rstudio.html#wie-funktionieren-die-relativen-pfade-und-wie-stellt-man-sicher-dass-diese-auch-bei-fremden-personen-funktionieren",
+    "href": "rstudio.html#wie-funktionieren-die-relativen-pfade-und-wie-stellt-man-sicher-dass-diese-auch-bei-fremden-personen-funktionieren",
+    "title": "1 RStudio",
+    "section": "Wie funktionieren die relativen Pfade und wie stellt man sicher, dass diese auch bei fremden Personen funktionieren?",
+    "text": "Wie funktionieren die relativen Pfade und wie stellt man sicher, dass diese auch bei fremden Personen funktionieren?\nRelative Pfade gehen immer vom working directory (Arbeitsspeicher des Skripts) aus. Wenn man also Daten laden möchtest, dann muss man immer schauen, wo sich – ausgehend vom working directory – die Datenfiles befindet. Bei der Syntax des dann angegebenen Pfades gilt folgendes: 1. “Datensatz.Dateiendung” bildet ausnahmslos das Ende des Pfades. 2. “/” bilden den nächsten Step, also den Übergang von einem Ordner zum nächsten oder vom finalen Ordner zur Datei. 3. Soll im Ordnersystem in einen Ordner auf einer Ebene weiter oben gewechselt werden, dann kann ein “.” zusätzlich verwendet werden. Hier ein beispielhaftes Code-Snipet:\n\ndata &lt;- readr::read_csv(\"../data/Datensatz.Dateiendung\") # Starte im working directory (deswegen der erste \".\") und gehe eine Ordnerebene hoch (deswegen der zweite \".\"). Von dort aus gehe in den Ordner \"data\" und wähle dort die Datei \"Datensatz\" aus, welche dem Format \"Dateiendung\" entspricht.\n\nWird einer fremden Person nun das gesamte Ordnersystem mit all seinen Inhalten unverändert übergeben, so kann der Dateipfad innerhalb dieses Ordnersystems immer auch den Datensatz einlesen.\n\n\n\nAbb. 2.: Dateipfade"
+  },
+  {
+    "objectID": "rstudio.html#wann-wird-die-tilde-und-das-dollarzeichen-verwendet",
+    "href": "rstudio.html#wann-wird-die-tilde-und-das-dollarzeichen-verwendet",
+    "title": "1 RStudio",
+    "section": "Wann wird die Tilde (~) und das Dollarzeichen ($) verwendet?",
+    "text": "Wann wird die Tilde (~) und das Dollarzeichen ($) verwendet?\nDie Tilde bedeutet, was links von ihr steht, wird von dem, was rechts von ihr steht, vorhergesagt. Beispielsweise wird die Tilde üblicherweise bei Regressionen verwendet: lm(AV ~ UV). Das Dollarzeichen dient vor allem, um Spalten anhand ihrer Namen anzusprechen: data$Spaltenname. Manche Funktionen arbeiten mit beiden Schreibweisen. Beispielsweise sind die folgenden Schreibweisen äquivalent:\n\nt.test(data$variable1, data$variable2)\n      \nt.test(data, formula = variable ~ group)\n\nAllerdings müssen bei letzterer Schreibweise die Werte beider Gruppen zwingend im selben Datensatz vorliegen."
+  },
+  {
+    "objectID": "rstudio.html#wann-wird-die-tilde-verwendet-und-wann-wird-ein-komma-verwendet",
+    "href": "rstudio.html#wann-wird-die-tilde-verwendet-und-wann-wird-ein-komma-verwendet",
+    "title": "1 RStudio",
+    "section": "Wann wird die Tilde (~) verwendet und wann wird ein Komma (,) verwendet?",
+    "text": "Wann wird die Tilde (~) verwendet und wann wird ein Komma (,) verwendet?\nDie Tilde bedeutet, was links von ihr steht, wird von dem, was rechts von ihr steht, vorhergesagt. Beispielsweise wird die Tilde üblicherweise bei Regressionen verwendet: lm(AV ~ UV). Das Komma wird verwendet, um Argumente in einer Funktion zu trennen. Beispiel:\n\nresult &lt;- lm(AV ~ UV, data = datensatz)\n\nresult &lt;- t.test(x = datensatz$variable1, y = datensatz$variable2)\n\n\n\n\n\n\n\nWarning\n\n\n\nDas Komma sollte nicht verwendet werden um Dezimalzahlen zu definieren! Dies führt zu einer Fehlermeldung. Für Dezimalzahlen wird immer der Punkt verwendet (z.B. 3.14)."
+  },
+  {
+    "objectID": "rstudio.html#wie-berechnet-man-das-generalisierte-η²",
+    "href": "rstudio.html#wie-berechnet-man-das-generalisierte-η²",
+    "title": "1 RStudio",
+    "section": "Wie berechnet man das generalisierte η²?",
+    "text": "Wie berechnet man das generalisierte η²?\nMan erhält das generalisierte η² indem man erst eine ANOVA berechnet, abspeichert und dann über summary(anova_ergebnis, es = ges) ausgeben lässt.\n\nanova_ergebnis &lt;- afex::aov_car(value ~ treatment, data = example_data)\n\nsummary(anova_ergebnis, es = ges)"
+  },
+  {
+    "objectID": "rstudio.html#wie-bereitet-man-die-daten-für-eine-mixed-anova-vor",
+    "href": "rstudio.html#wie-bereitet-man-die-daten-für-eine-mixed-anova-vor",
+    "title": "1 RStudio",
+    "section": "Wie bereitet man die Daten für eine mixed-ANOVA vor?",
+    "text": "Wie bereitet man die Daten für eine mixed-ANOVA vor?\nEine mixed-ANOVA besteht aus der Varianzerklärung aufgrund unterschiedlicher Gruppenzugehörigkeiten (bspw. Kontrollgruppe und Experimentalgruppe) und einer Messwiederholung (mehrerer Messwerte pro Person, unabhängig von der Gruppenzugehörigkeit). Beides muss auch bereits in den Daten erkennbar sein. Sprich, pro Versuchsperson muss anhand einer Variable codiert sein, zu welcher Gruppe diese Versuchsperson gehört. Darüber hinaus muss es für jede Versuchsperson zu jedem Messzeitpunkt einen Wert geben. Angenommen die Daten liegen ursprünglich im wide-Format vor, dann müssen diese erst ins long-Format übertragen werden (siehe auch Fragen zum long-Format). Erst dann können die entsprechenden ANOVA-Funktionen die Daten entsprechend interpretieren.\n\n\n\n\n\n\nNote\n\n\n\nInhalte zu ANOVAs mit Messwiederholung oder mixed-ANOVAs könnt ihr auch noch mal über die Inhalte aus Statistik IV von Boris Mayer und Stefan Thoma wiederholen"
+  },
+  {
+    "objectID": "rstudio.html#wofür-gibt-es-bei-der-funktion-aov_4-das-argument-1-personenidentifikationscode.-bzw.-das-argument-wiederholungsfaktor-personenidentifikationscode",
+    "href": "rstudio.html#wofür-gibt-es-bei-der-funktion-aov_4-das-argument-1-personenidentifikationscode.-bzw.-das-argument-wiederholungsfaktor-personenidentifikationscode",
+    "title": "1 RStudio",
+    "section": "Wofür gibt es bei der Funktion aov_4() das Argument (1 | Personenidentifikationscode). bzw. das Argument (Wiederholungsfaktor | Personenidentifikationscode)?",
+    "text": "Wofür gibt es bei der Funktion aov_4() das Argument (1 | Personenidentifikationscode). bzw. das Argument (Wiederholungsfaktor | Personenidentifikationscode)?\n\n\n\n\n\n\nImportant\n\n\n\nDu kannst anhand der Syntax ?Funktionsname()die Dokumentation einer Funktion aufrufen. Hier wird beschrieben, welche Argumente die Funktion erwartet, was die Default-Einstellungen sind und was die Funktion ausgibt.\n\n\nDie Funktion aov_4() ist auf ANOVAs mit Messwiederholung ausgelegt und erwartet die zusätzliche Syntax (x | y). Die genaue Formulierung dieses Arguments hängt dann davon ab, ob es keine Messwiederholung gibt (1 | Personenidentifikationscode) oder ob es eine Messwiederholung gibt (Wiederholungsfaktor | Personenidentifikationscode).\n\nafex::aov_4(value ~ treatment + (1 | Personenidentifikationscode), data = example_data) # Beispiel ohne(!) Messwiederholung\n\nafex::aov_4(value ~ treatment + (time | Personenidentifikationscode), data = example_data) # Beispiel mit(!) Messwiederholung\n\n\n\n\n\n\n\nNote\n\n\n\nFür die Funktion aov_4() gibt es aus Statistik-IV von Boris Mayer und Stefan Thoma noch tiefere und beispielhafte Ausführungen."
+  },
+  {
+    "objectID": "rstudio.html#wie-stellt-man-ein-dass-in-markdown-oder-quarto-der-output-meines-codes-unterbunden-wird",
+    "href": "rstudio.html#wie-stellt-man-ein-dass-in-markdown-oder-quarto-der-output-meines-codes-unterbunden-wird",
+    "title": "1 RStudio",
+    "section": "Wie stellt man ein, dass in Markdown oder Quarto der Output meines Codes unterbunden wird?",
+    "text": "Wie stellt man ein, dass in Markdown oder Quarto der Output meines Codes unterbunden wird?\nEs kann entweder im ersten Chunk des Dokuments als globale Einstellung knitr::opts_chunk$set(output = FALSE) oder im entsprechend gewünschten Chunk einzeln die Option {r, output = FALSE} gesetzt werden den Output zu unterdrücken. Mittlerweile können solche Optionen auch über die Schreibweise #| explizit innerhalb des Chunks geschrieben werden. Ähnliche Befehle existieren auch, wenn man stattdessen oder zusätzlich Warnmeldungen oder den Code unterbinden möchte. Stellt bei der Endabgabe aber bitte sicher, dass der Code und mögliche Warnmeldungen sichtbar sind!\n\n# Hierdurch würde der Code zwar angezeigt, aber nicht mehr durchgeführt werden\n# #| eval: FALSE\n# Hierdurch würde der Code dann zusätzlich auch nicht mehr angezeigt werden\n# #| echo: FALSE"
+  },
+  {
+    "objectID": "rstudio.html#was-bedeutet-die-meldung-summarise-has-grouped-output-by-group.-you-can-override-using-the-.groups-argument.-und-was-muss-ich-dabei-beachten",
+    "href": "rstudio.html#was-bedeutet-die-meldung-summarise-has-grouped-output-by-group.-you-can-override-using-the-.groups-argument.-und-was-muss-ich-dabei-beachten",
+    "title": "1 RStudio",
+    "section": "Was bedeutet die Meldung „summarise() has grouped output by ‘group’. You can override using the .groups argument.“ und was muss ich dabei beachten?",
+    "text": "Was bedeutet die Meldung „summarise() has grouped output by ‘group’. You can override using the .groups argument.“ und was muss ich dabei beachten?\nÜblicherweise werden deskriptive Werte (auch) für Subgruppen der Gesamtstichprobe angegeben (beispielsweise getrennt für Männer und Frauen, für die Kontrollgruppe oder die Experimentalgruppe etc.). Um entsprechende Änderungen vorzunehmen, wird daher vor der Anwendung von summarise() noch die Funktion group_by() verwendet. Nach der Berechnung der Deskriptivstatistik wird die Gruppierung nicht aufgehoben. Sie bleibt im Hintergrund, nicht direkt sichtbar, erhalten. Die Warnmeldung weisst genau darauf hin. Möchte man die Gruppierung aufheben, dann kann entweder die Funktion ungroup() verwendet werden oder summarise() wird um das Argument summarise(.group = „drop) ergänzt. Gruppierungen aufzulösen kann für manche Vorgänge, wie beispielsweise das Löschen von noch gruppierten Spalten relevant sein."
+  },
+  {
+    "objectID": "rstudio.html#wann-soll-eine-neue-variable-bzw.-ein-neuer-datensatz-erstellt-werden-und-wann-soll-die-alte-variable-bzw.-der-neue-datensatz-überspeichert-werden",
+    "href": "rstudio.html#wann-soll-eine-neue-variable-bzw.-ein-neuer-datensatz-erstellt-werden-und-wann-soll-die-alte-variable-bzw.-der-neue-datensatz-überspeichert-werden",
+    "title": "1 RStudio",
+    "section": "Wann soll eine neue Variable bzw. ein neuer Datensatz erstellt werden und wann soll die alte Variable bzw. der neue Datensatz überspeichert werden?",
+    "text": "Wann soll eine neue Variable bzw. ein neuer Datensatz erstellt werden und wann soll die alte Variable bzw. der neue Datensatz überspeichert werden?\nGrundsätzlich ist es vorzuziehen neue Variablen oder Datensätze zu erstellen. Zum einen kann so bei Bedarf noch auf die ursprünglichen Variablen oder Datensätze zugegriffen werden. Zum anderen ist die Analyse so für aussenstehende leichter nachzuvollziehen. Ausnahmen sind ästhetische Änderungen oder wiederholte Berechnungen, welche für die weitere Analyse nicht weiter relevant sind."
+  },
+  {
+    "objectID": "rstudio.html#wann-eignet-es-sich-ein-projekt-anzulegen",
+    "href": "rstudio.html#wann-eignet-es-sich-ein-projekt-anzulegen",
+    "title": "1 RStudio",
+    "section": "Wann eignet es sich ein Projekt anzulegen?",
+    "text": "Wann eignet es sich ein Projekt anzulegen?\nEin Projekt anzulegen, lohnt sich vor allem dann, wenn in mehreren Skripten gearbeitet wird. Dann muss nicht in jedem Skript einzeln das working directory (Arbeitsspeicher des Skripts) gesetzt werden. Wird in nur einem Skript gearbeitet, dann macht das Anlegen des Projekts keinen Unterschied."
+  },
+  {
+    "objectID": "endabgabe.html",
+    "href": "endabgabe.html",
+    "title": "5 Abschlussprojekt",
+    "section": "",
+    "text": "Note\n\n\n\nLies dir neben den folgenden Fragen auch noch mal die allgemeinen Infos zum Abschlussprojekt unter “Leistungsnachweis” durch."
+  },
+  {
+    "objectID": "endabgabe.html#was-gibt-es-für-formatvorgaben-für-das-skript-schriftgrösse-fettmarkierungen-etc.",
+    "href": "endabgabe.html#was-gibt-es-für-formatvorgaben-für-das-skript-schriftgrösse-fettmarkierungen-etc.",
+    "title": "5 Abschlussprojekt",
+    "section": "Was gibt es für Formatvorgaben für das Skript (Schriftgrösse, Fettmarkierungen etc.)?",
+    "text": "Was gibt es für Formatvorgaben für das Skript (Schriftgrösse, Fettmarkierungen etc.)?\nEs gibt keine exakten Formatvorgaben für das Skript. Vielmehr gilt: Das Skript sollte übersichtlich sein und keine ungewöhnlichen Formatierungen enthalten. Mit den Vorgaben von APA 7 ist das Skript sicher passend formatiert."
+  },
+  {
+    "objectID": "endabgabe.html#welche-stilvorgaben-gibt-es-bei-der-erstellung-des-skripts-zu-beachten",
+    "href": "endabgabe.html#welche-stilvorgaben-gibt-es-bei-der-erstellung-des-skripts-zu-beachten",
+    "title": "5 Abschlussprojekt",
+    "section": "Welche Stilvorgaben gibt es bei der Erstellung des Skripts zu beachten?",
+    "text": "Welche Stilvorgaben gibt es bei der Erstellung des Skripts zu beachten?\nDas Skript sollte sinnvolle Überschriften und eine sinnvolle Gliederung enthalten. Der Code sollte kommentiert sein, so dass die Auswahl von Funktionen und das Vorgehen begründet sind. Sofern LLMs oder andere externe Tools zur Hilfe herangezogen worden sind, muss dies angemerkt werden. Hierfür kann ggf. eine getrennte Kopie des Chatverlaufes eingereicht oder ein Link nach APA-Guidelines ergänzt werden."
+  },
+  {
+    "objectID": "endabgabe.html#in-welcher-sprache-zeitform-perspektive-und-in-welchem-stil-soll-der-datenanalyseplan-geschrieben-werden",
+    "href": "endabgabe.html#in-welcher-sprache-zeitform-perspektive-und-in-welchem-stil-soll-der-datenanalyseplan-geschrieben-werden",
+    "title": "5 Abschlussprojekt",
+    "section": "In welcher Sprache, Zeitform, Perspektive und in welchem Stil soll der Datenanalyseplan geschrieben werden?",
+    "text": "In welcher Sprache, Zeitform, Perspektive und in welchem Stil soll der Datenanalyseplan geschrieben werden?\nAlle für die Abgabe relevanten Unterlagen dürfen auf Englisch oder Deutsch eingereicht werden. Wichtig ist lediglich, dass die Unterlagen untereinander einer einheitlichen Sprache folgen. Als Zeitform gilt das Präsens. Bitte schreibe in der Wir-Form und im wissenschaftlichen Stil."
+  },
+  {
+    "objectID": "endabgabe.html#wie-umfangreich-sollen-die-kommentare-des-codes-im-skript-sein",
+    "href": "endabgabe.html#wie-umfangreich-sollen-die-kommentare-des-codes-im-skript-sein",
+    "title": "5 Abschlussprojekt",
+    "section": "Wie umfangreich sollen die Kommentare des Codes im Skript sein?",
+    "text": "Wie umfangreich sollen die Kommentare des Codes im Skript sein?\nDie Funktionsweise von üblicher Syntax (wie beispielsweise dem Pipe Operator) oder einer Funktion muss nicht kommentiert werden. Aber: Das Dokument muss für fremde Wissenschaftler:innen der Psychologie ohne weiteres nachvollziehbar sein. Bedeutet, Kommentare sollten das Vorgehen im Skript ausreichend begründen."
+  },
+  {
+    "objectID": "endabgabe.html#sollen-im-skript-warn--undoder-fehlermeldungen-unterbunden-werden-oder-sichtbar-sein",
+    "href": "endabgabe.html#sollen-im-skript-warn--undoder-fehlermeldungen-unterbunden-werden-oder-sichtbar-sein",
+    "title": "5 Abschlussprojekt",
+    "section": "Sollen im Skript Warn- und/oder Fehlermeldungen unterbunden werden oder sichtbar sein?",
+    "text": "Sollen im Skript Warn- und/oder Fehlermeldungen unterbunden werden oder sichtbar sein?\nDamit wir die Abgabe leichter kontrollieren können sollen die Warn- und Fehlermeldungen bitte sichtbar sein und nicht ausgeschaltet sein. Auch unabhängig von der Abgabe ist zu empfehlen die Meldungen sichtbar zu lassen. Das erleichtert Unbeteiligten die Analyse nachzuvollziehen und sie auf mögliche Fehler zu untersuchen."
+  },
+  {
+    "objectID": "endabgabe.html#darf-im-skript-auch-noch-code-von-übungsaufgaben-vorhanden-sein",
+    "href": "endabgabe.html#darf-im-skript-auch-noch-code-von-übungsaufgaben-vorhanden-sein",
+    "title": "5 Abschlussprojekt",
+    "section": "Darf im Skript auch noch Code von Übungsaufgaben vorhanden sein?",
+    "text": "Darf im Skript auch noch Code von Übungsaufgaben vorhanden sein?\nHier gilt der Grundsatz: Euer Skript, wie auch alle anderen Unterlagen, sollten für fremde Wissenschaftler:innen der Psychologie ohne weiteres nachvollziehbar sein. Code, welcher nicht im Zusammenhang mit der Endabgabe steht - und dementsprechend auch nicht im Datenanalyseplan erwähnt wird – würde nur vom wesentlichen Ablenken und soll daher nicht im Skript vorhanden sein."
+  },
+  {
+    "objectID": "endabgabe.html#wie-exakt-sollen-die-tabellen-und-abbildungen-denen-aus-dem-paper-von-grinschgl-et-al.-2020-entsprechen",
+    "href": "endabgabe.html#wie-exakt-sollen-die-tabellen-und-abbildungen-denen-aus-dem-paper-von-grinschgl-et-al.-2020-entsprechen",
+    "title": "5 Abschlussprojekt",
+    "section": "Wie exakt sollen die Tabellen und Abbildungen denen aus dem Paper von Grinschgl et al. (2020) entsprechen?",
+    "text": "Wie exakt sollen die Tabellen und Abbildungen denen aus dem Paper von Grinschgl et al. (2020) entsprechen?\nDie Tabellen und Abbildungen aus dem Originalpaper von Grinschgl et al. (2020) müssen nicht exakt repliziert werden. Wichtig ist allerdings, dass die Aussage der Abbildung bzw. der Tabelle korrekt ist und keine wichtigen Details ausgelassen werden."
+  },
+  {
+    "objectID": "endabgabe.html#soll-die-berechnung-von-cronbachs-alpha-aus-dem-paper-von-grinschgl-et-al.-2020-auch-durchgeführt-werden",
+    "href": "endabgabe.html#soll-die-berechnung-von-cronbachs-alpha-aus-dem-paper-von-grinschgl-et-al.-2020-auch-durchgeführt-werden",
+    "title": "5 Abschlussprojekt",
+    "section": "Soll die Berechnung von Cronbachs Alpha aus dem Paper von Grinschgl et al. (2020) auch durchgeführt werden?",
+    "text": "Soll die Berechnung von Cronbachs Alpha aus dem Paper von Grinschgl et al. (2020) auch durchgeführt werden?\nNein, die Berechnung von Cronbachs-Alpha aus dem Paper von Grinschgl et al. (2020) ist nicht Teil des Abschlussprojekts."
+  },
+  {
+    "objectID": "front_page.html",
+    "href": "front_page.html",
+    "title": "Einleitung",
+    "section": "",
+    "text": "In diesem E-Book findest du alle wichtigen Informationen zum Methodenseminar “R u Ready”. Du kannst hier u. a. die wöchentlichen Folien, Hands-On R Übungen, den Leistungsnachweis, und Frequently Asked Questions einsehen. Du kannst über die Unterkapitel (links) zu den entsprechenden Inhalten navigieren, oder auch die Suchfunktion oben links verwenden, um nach einem bestimmten Begriff zu suchen.\n\nHinweisboxen\nHier einen Überblick über die auf den Seiten enthaltenen Hinweisboxen:\n\n\n\n\n\n\nNote\n\n\n\nVeriefung: Hier geht es in die Tiefe.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nWichtig: Dies ist eine wichtige Information.\n\n\n\n\n\n\n\n\nWarning\n\n\n\nAchtung: Hier ist Vorsicht geboten.\n\n\n\n\n\n\n\n\nCaution\n\n\n\nVorsicht: Diese Information ist noch in Bearbeitung.\n\n\n\n\nSyllabus\n\n\n\n\n\n\nCaution\n\n\n\nVorsicht: Der Syllabus dient als grobe Richtlinie und kann angepasst werden, falls wir in einzelnen Einheiten mehr oder weniger Zeit benötigen."
   }
 ]
