@@ -3,6 +3,7 @@ project:
 
 website:
   title: "ryouready.github.io"
+  site-url: https://friedliaaron.github.io/ryouready.github.io/
   navbar:
     left:
       - href: index.qmd
@@ -18,4 +19,3 @@ format:
     toc: true
 
 editor: visual
-
